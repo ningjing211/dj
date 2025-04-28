@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 mellow moment
+00:05:08 peaceful afternoon
+00:10:20 soft rain
+00:15:25 gentle twilight
+00:20:29 vibrant city
+00:25:38 quiet breeze
+00:28:51 whimsical bridge
+00:34:02 fresh leaves
+00:39:17 azure night
+00:44:30 soft twilight
+00:49:40 ivory alley
+00:54:53 gentle morning
+00:58:05 bronze garden
+01:03:10 peaceful rain
+01:08:20 mellow morning
+
+总时长: 01:13:32

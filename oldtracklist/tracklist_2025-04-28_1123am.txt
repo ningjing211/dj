@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 peaceful moment
+00:05:08 dreamy lake
+00:10:20 mellow morning
+00:15:25 soft rain
+00:20:29 crystal lights
+00:25:38 quiet twilight
+00:28:51 toasty mirror
+00:34:02 balmy path
+00:39:17 silver night
+00:44:30 gentle breeze
+00:49:40 lonesome midnight
+00:54:53 peaceful morning
+00:58:05 misty forest
+01:03:10 gentle twilight
+01:08:20 quiet moment
+
+总时长: 01:13:32

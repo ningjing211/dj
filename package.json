@@ -1,0 +1,11 @@
+{
+  "name": "mp3-merger",
+  "version": "1.0.0",
+  "description": "合并 MP3 文件的工具",
+  "main": "merge-mp3.js",
+  "dependencies": {
+    "wavesurfer.js": "^7.7.5",
+    "jsdom": "^24.0.0",
+    "canvas": "^2.11.2"
+  }
+} 

@@ -1,0 +1,1958 @@
+{
+  "scanTime": "2025-04-28T03:17:23.005Z",
+  "tracks": [
+    {
+      "filename": "00-Acoustic___Ambient__BPM108_2025-04-25-1734pm.mp3",
+      "fullPath": "temp-set1/00-Acoustic___Ambient__BPM108_2025-04-25-1734pm.mp3",
+      "duration": 208.965011,
+      "formattedDuration": "3:29"
+    },
+    {
+      "filename": "00-Lofi_Hip_Hop___R_B__BPM75 (1)_2025-04-25-1626pm.mp3",
+      "fullPath": "temp-set1/00-Lofi_Hip_Hop___R_B__BPM75 (1)_2025-04-25-1626pm.mp3",
+      "duration": 308.182993,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "01-Acoustic___Ambient__BPM108_2025-04-25-1735pm.mp3",
+      "fullPath": "temp-set1/01-Acoustic___Ambient__BPM108_2025-04-25-1735pm.mp3",
+      "duration": 209.356009,
+      "formattedDuration": "3:29"
+    },
+    {
+      "filename": "01-Afrobeats___Ambient__BPM90_2025-04-25-1731pm.mp3",
+      "fullPath": "temp-set1/01-Afrobeats___Ambient__BPM90_2025-04-25-1731pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "02-Acoustic___Ambient__BPM110_2025-04-25-1734pm.mp3",
+      "fullPath": "temp-set1/02-Acoustic___Ambient__BPM110_2025-04-25-1734pm.mp3",
+      "duration": 287.361995,
+      "formattedDuration": "4:47"
+    },
+    {
+      "filename": "02-Lofi_Hip_Hop___Reggae__BPM95_2025-04-25-1612pm.mp3",
+      "fullPath": "temp-set1/02-Lofi_Hip_Hop___Reggae__BPM95_2025-04-25-1612pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "03-Acoustic___Ambient__BPM110_2025-04-25-1735pm.mp3",
+      "fullPath": "temp-set1/03-Acoustic___Ambient__BPM110_2025-04-25-1735pm.mp3",
+      "duration": 184.408005,
+      "formattedDuration": "3:04"
+    },
+    {
+      "filename": "03-Funk___Lofi_Hip_Hop__BPM82.mp3",
+      "fullPath": "temp-set1/03-Funk___Lofi_Hip_Hop__BPM82.mp3",
+      "duration": 304.760998,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "04-Acoustic___Ambient__BPM85_2025-04-25-1734pm.mp3",
+      "fullPath": "temp-set1/04-Acoustic___Ambient__BPM85_2025-04-25-1734pm.mp3",
+      "duration": 307.06,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "04-Orchestra___City_Pop__BPM93_2025-04-25-1645pm.mp3",
+      "fullPath": "temp-set1/04-Orchestra___City_Pop__BPM93_2025-04-25-1645pm.mp3",
+      "duration": 308.758005,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "05-Acoustic___Ambient__BPM90.mp3",
+      "fullPath": "temp-set1/05-Acoustic___Ambient__BPM90.mp3",
+      "duration": 194.205011,
+      "formattedDuration": "3:14"
+    },
+    {
+      "filename": "05-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1724pm.mp3",
+      "fullPath": "temp-set1/05-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1724pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "06-Acoustic___Ambient__BPM95_2025-04-25-1733pm.mp3",
+      "fullPath": "temp-set1/06-Acoustic___Ambient__BPM95_2025-04-25-1733pm.mp3",
+      "duration": 306.850998,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "06-R_B___World__BPM80_2025-04-25-1615pm.mp3",
+      "fullPath": "temp-set1/06-R_B___World__BPM80_2025-04-25-1615pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "07-Acoustic___Ambient__BPM98.mp3",
+      "fullPath": "temp-set1/07-Acoustic___Ambient__BPM98.mp3",
+      "duration": 189.737007,
+      "formattedDuration": "3:10"
+    },
+    {
+      "filename": "07-World___R_B__BPM105_2025-04-25-1604pm.mp3",
+      "fullPath": "temp-set1/07-World___R_B__BPM105_2025-04-25-1604pm.mp3",
+      "duration": 314.582993,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "08-Acoustic___Beats__BPM110_2025-04-25-1657pm.mp3",
+      "fullPath": "temp-set1/08-Acoustic___Beats__BPM110_2025-04-25-1657pm.mp3",
+      "duration": 307.478005,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "08-City_Pop___Reggae__BPM83_2025-04-25-1700pm.mp3",
+      "fullPath": "temp-set1/08-City_Pop___Reggae__BPM83_2025-04-25-1700pm.mp3",
+      "duration": 313.617007,
+      "formattedDuration": "5:14"
+    },
+    {
+      "filename": "09-Acoustic___City_Pop__BPM105_2025-04-25-1650pm.mp3",
+      "fullPath": "temp-set1/09-Acoustic___City_Pop__BPM105_2025-04-25-1650pm.mp3",
+      "duration": 311.683991,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "09-World___Lofi_Hip_Hop__BPM90_2025-04-25-1624pm.mp3",
+      "fullPath": "temp-set1/09-World___Lofi_Hip_Hop__BPM90_2025-04-25-1624pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "10-Acoustic___City_Pop__BPM110_2025-04-25-1654pm.mp3",
+      "fullPath": "temp-set1/10-Acoustic___City_Pop__BPM110_2025-04-25-1654pm.mp3",
+      "duration": 306.407007,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "10-Beats__BPM80_2025-04-25T05-10-11-187Z.mp3",
+      "fullPath": "temp-set1/10-Beats__BPM80_2025-04-25T05-10-11-187Z.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "100-City_Pop___Reggae__BPM103_2025-04-25-1643pm.mp3",
+      "fullPath": "temp-set1/100-City_Pop___Reggae__BPM103_2025-04-25-1643pm.mp3",
+      "duration": 309.62,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "101-City_Pop___Reggae__BPM103_2025-04-25-1655pm.mp3",
+      "fullPath": "temp-set1/101-City_Pop___Reggae__BPM103_2025-04-25-1655pm.mp3",
+      "duration": 309.62,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "102-City_Pop___Reggae__BPM103_2025-04-25-1703pm.mp3",
+      "fullPath": "temp-set1/102-City_Pop___Reggae__BPM103_2025-04-25-1703pm.mp3",
+      "duration": 309.62,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "103-City_Pop___Reggae__BPM103_2025-04-25-1704pm.mp3",
+      "fullPath": "temp-set1/103-City_Pop___Reggae__BPM103_2025-04-25-1704pm.mp3",
+      "duration": 308.992993,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "104-City_Pop___Reggae__BPM107_2025-04-25-1701pm.mp3",
+      "fullPath": "temp-set1/104-City_Pop___Reggae__BPM107_2025-04-25-1701pm.mp3",
+      "duration": 306.825011,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "105-City_Pop___Reggae__BPM83_2025-04-25-1700pm.mp3",
+      "fullPath": "temp-set1/105-City_Pop___Reggae__BPM83_2025-04-25-1700pm.mp3",
+      "duration": 313.617007,
+      "formattedDuration": "5:14"
+    },
+    {
+      "filename": "106-City_Pop___Reggae__BPM87_2025-04-25-1639pm.mp3",
+      "fullPath": "temp-set1/106-City_Pop___Reggae__BPM87_2025-04-25-1639pm.mp3",
+      "duration": 309.306009,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "107-City_Pop___Reggae__BPM90_2025-04-25-1634pm.mp3",
+      "fullPath": "temp-set1/107-City_Pop___Reggae__BPM90_2025-04-25-1634pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "108-City_Pop___Reggae__BPM90_2025-04-25-1646pm.mp3",
+      "fullPath": "temp-set1/108-City_Pop___Reggae__BPM90_2025-04-25-1646pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "109-City_Pop___Reggae__BPM90_2025-04-25-1647pm.mp3",
+      "fullPath": "temp-set1/109-City_Pop___Reggae__BPM90_2025-04-25-1647pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "11-Acoustic___City_Pop__BPM120_2025-04-25-1650pm.mp3",
+      "fullPath": "temp-set1/11-Acoustic___City_Pop__BPM120_2025-04-25-1650pm.mp3",
+      "duration": 304.081995,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "11-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1722pm.mp3",
+      "fullPath": "temp-set1/11-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1722pm.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "110-City_Pop___Reggae__BPM90_2025-04-25-1707pm.mp3",
+      "fullPath": "temp-set1/110-City_Pop___Reggae__BPM90_2025-04-25-1707pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "111-City_Pop___Reggae__BPM93_2025-04-25-1701pm.mp3",
+      "fullPath": "temp-set1/111-City_Pop___Reggae__BPM93_2025-04-25-1701pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "112-City_Pop___Reggae__BPM93_2025-04-25-1702pm.mp3",
+      "fullPath": "temp-set1/112-City_Pop___Reggae__BPM93_2025-04-25-1702pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "113-City_Pop___Reggae__BPM93_2025-04-25-1704pm.mp3",
+      "fullPath": "temp-set1/113-City_Pop___Reggae__BPM93_2025-04-25-1704pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "114-City_Pop___Reggae__BPM93_2025-04-25-1706pm.mp3",
+      "fullPath": "temp-set1/114-City_Pop___Reggae__BPM93_2025-04-25-1706pm.mp3",
+      "duration": 312.231995,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "115-City_Pop___Reggae__BPM93_2025-04-25-1707pm.mp3",
+      "fullPath": "temp-set1/115-City_Pop___Reggae__BPM93_2025-04-25-1707pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "116-City_Pop___Reggae__BPM93_2025-04-25-1708pm.mp3",
+      "fullPath": "temp-set1/116-City_Pop___Reggae__BPM93_2025-04-25-1708pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "117-City_Pop___Reggae__BPM97_2025-04-25-1635pm.mp3",
+      "fullPath": "temp-set1/117-City_Pop___Reggae__BPM97_2025-04-25-1635pm.mp3",
+      "duration": 307.660998,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "118-City_Pop___Reggae__BPM97_2025-04-25-1645pm.mp3",
+      "fullPath": "temp-set1/118-City_Pop___Reggae__BPM97_2025-04-25-1645pm.mp3",
+      "duration": 308.288005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "119-City_Pop___Reggae__BPM97_2025-04-25-1659pm.mp3",
+      "fullPath": "temp-set1/119-City_Pop___Reggae__BPM97_2025-04-25-1659pm.mp3",
+      "duration": 308.288005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "12-Acoustic___Funk__BPM85_2025-04-25-1653pm.mp3",
+      "fullPath": "temp-set1/12-Acoustic___Funk__BPM85_2025-04-25-1653pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "12-Reggae__BPM75_2025-04-25-1709pm.mp3",
+      "fullPath": "temp-set1/12-Reggae__BPM75_2025-04-25-1709pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "120-City_Pop___Reggae__BPM97_2025-04-25-1703pm.mp3",
+      "fullPath": "temp-set1/120-City_Pop___Reggae__BPM97_2025-04-25-1703pm.mp3",
+      "duration": 308.288005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "121-City_Pop___Tropical_House__BPM97_2025-04-25-1724pm.mp3",
+      "fullPath": "temp-set1/121-City_Pop___Tropical_House__BPM97_2025-04-25-1724pm.mp3",
+      "duration": 188.118005,
+      "formattedDuration": "3:08"
+    },
+    {
+      "filename": "122-City_Pop___World__BPM100_2025-04-25-1633pm.mp3",
+      "fullPath": "temp-set1/122-City_Pop___World__BPM100_2025-04-25-1633pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "123-City_Pop___World__BPM120_2025-04-25-1633pm.mp3",
+      "fullPath": "temp-set1/123-City_Pop___World__BPM120_2025-04-25-1633pm.mp3",
+      "duration": 304.812993,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "124-Country___City_Pop__BPM95_2025-04-25-1718pm.mp3",
+      "fullPath": "temp-set1/124-Country___City_Pop__BPM95_2025-04-25-1718pm.mp3",
+      "duration": 303.455011,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "125-Country___City_Pop__BPM95_2025-04-25-1719pm.mp3",
+      "fullPath": "temp-set1/125-Country___City_Pop__BPM95_2025-04-25-1719pm.mp3",
+      "duration": 303.455011,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "126-Country___Lofi_Hip_Hop__BPM85_2025-04-25-1716pm.mp3",
+      "fullPath": "temp-set1/126-Country___Lofi_Hip_Hop__BPM85_2025-04-25-1716pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "127-Country___Lofi_Hip_Hop__BPM98_2025-04-25-1721pm.mp3",
+      "fullPath": "temp-set1/127-Country___Lofi_Hip_Hop__BPM98_2025-04-25-1721pm.mp3",
+      "duration": 187.7,
+      "formattedDuration": "3:08"
+    },
+    {
+      "filename": "128-Dancehall___Beats__BPM100 (1)_2025-04-25-1312pm.mp3",
+      "fullPath": "temp-set1/128-Dancehall___Beats__BPM100 (1)_2025-04-25-1312pm.mp3",
+      "duration": 308.600998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "129-Dancehall___Beats__BPM100 (1)_2025-04-25-1712pm.mp3",
+      "fullPath": "temp-set1/129-Dancehall___Beats__BPM100 (1)_2025-04-25-1712pm.mp3",
+      "duration": 308.600998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "13-Acoustic___Orchestra__BPM110_2025-04-25-1655pm.mp3",
+      "fullPath": "temp-set1/13-Acoustic___Orchestra__BPM110_2025-04-25-1655pm.mp3",
+      "duration": 306.119002,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "13-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1621pm.mp3",
+      "fullPath": "temp-set1/13-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1621pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "130-Dancehall___R_B__BPM90_2025-04-25-1706pm.mp3",
+      "fullPath": "temp-set1/130-Dancehall___R_B__BPM90_2025-04-25-1706pm.mp3",
+      "duration": 308.34,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "131-Funk___Acoustic__BPM105_2025-04-25-1653pm.mp3",
+      "fullPath": "temp-set1/131-Funk___Acoustic__BPM105_2025-04-25-1653pm.mp3",
+      "duration": 310.926009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "132-Funk___Acoustic__BPM106_2025-04-25-1651pm.mp3",
+      "fullPath": "temp-set1/132-Funk___Acoustic__BPM106_2025-04-25-1651pm.mp3",
+      "duration": 308.549002,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "133-Funk___Acoustic__BPM115_2025-04-25-1649pm.mp3",
+      "fullPath": "temp-set1/133-Funk___Acoustic__BPM115_2025-04-25-1649pm.mp3",
+      "duration": 308.940998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "134-Funk___City_Pop__BPM105_2025-04-25-1643pm.mp3",
+      "fullPath": "temp-set1/134-Funk___City_Pop__BPM105_2025-04-25-1643pm.mp3",
+      "duration": 311.683991,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "135-Funk___City_Pop__BPM105_2025-04-25-1650pm.mp3",
+      "fullPath": "temp-set1/135-Funk___City_Pop__BPM105_2025-04-25-1650pm.mp3",
+      "duration": 311.683991,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "136-Funk___City_Pop__BPM115_2025-04-25-1638pm.mp3",
+      "fullPath": "temp-set1/136-Funk___City_Pop__BPM115_2025-04-25-1638pm.mp3",
+      "duration": 310.508005,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "137-Funk___City_Pop__BPM115_2025-04-25-1648pm.mp3",
+      "fullPath": "temp-set1/137-Funk___City_Pop__BPM115_2025-04-25-1648pm.mp3",
+      "duration": 309.932993,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "138-Funk___City_Pop__BPM116_2025-04-25-1645pm.mp3",
+      "fullPath": "temp-set1/138-Funk___City_Pop__BPM116_2025-04-25-1645pm.mp3",
+      "duration": 307.608005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "139-Funk___City_Pop__BPM118_2025-04-25-1656pm.mp3",
+      "fullPath": "temp-set1/139-Funk___City_Pop__BPM118_2025-04-25-1656pm.mp3",
+      "duration": 310.690998,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "14-Acoustic___Orchestra__BPM90_2025-04-25-1651pm.mp3",
+      "fullPath": "temp-set1/14-Acoustic___Orchestra__BPM90_2025-04-25-1651pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "14-World___Lofi_Hip_Hop__BPM115_2025-04-25-1632pm.mp3",
+      "fullPath": "temp-set1/14-World___Lofi_Hip_Hop__BPM115_2025-04-25-1632pm.mp3",
+      "duration": 311.500998,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "140-Funk___Lofi_Hip_Hop__BPM82.mp3",
+      "fullPath": "temp-set1/140-Funk___Lofi_Hip_Hop__BPM82.mp3",
+      "duration": 304.760998,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "141-Funk___Lofi_Hip_Hop__BPM82_2025-04-25-1601pm.mp3",
+      "fullPath": "temp-set1/141-Funk___Lofi_Hip_Hop__BPM82_2025-04-25-1601pm.mp3",
+      "duration": 304.760998,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "142-Funk___Lofi_Hip_Hop__BPM95_2025-04-25-1632pm.mp3",
+      "fullPath": "temp-set1/142-Funk___Lofi_Hip_Hop__BPM95_2025-04-25-1632pm.mp3",
+      "duration": 304.056009,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "143-Funk___Orchestra__BPM105_2025-04-25-1637pm.mp3",
+      "fullPath": "temp-set1/143-Funk___Orchestra__BPM105_2025-04-25-1637pm.mp3",
+      "duration": 312.467007,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "144-Funk___Orchestra__BPM105_2025-04-25-1644pm.mp3",
+      "fullPath": "temp-set1/144-Funk___Orchestra__BPM105_2025-04-25-1644pm.mp3",
+      "duration": 312.467007,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "145-Funk___Orchestra__BPM116_2025-04-25-1658pm.mp3",
+      "fullPath": "temp-set1/145-Funk___Orchestra__BPM116_2025-04-25-1658pm.mp3",
+      "duration": 307.320998,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "146-Funk___Orchestra__BPM82_2025-04-25-1640pm.mp3",
+      "fullPath": "temp-set1/146-Funk___Orchestra__BPM82_2025-04-25-1640pm.mp3",
+      "duration": 303.429002,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "147-Funk___Orchestra__BPM92_2025-04-25-1644pm.mp3",
+      "fullPath": "temp-set1/147-Funk___Orchestra__BPM92_2025-04-25-1644pm.mp3",
+      "duration": 313.356009,
+      "formattedDuration": "5:13"
+    },
+    {
+      "filename": "148-Funk___Orchestra__BPM95_2025-04-25-1649pm.mp3",
+      "fullPath": "temp-set1/148-Funk___Orchestra__BPM95_2025-04-25-1649pm.mp3",
+      "duration": 303.793991,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "149-Funk___R_B__BPM105_2025-04-25-1610pm.mp3",
+      "fullPath": "temp-set1/149-Funk___R_B__BPM105_2025-04-25-1610pm.mp3",
+      "duration": 310.533991,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "15-Acoustic___Orchestra__BPM95_2025-04-25-1654pm.mp3",
+      "fullPath": "temp-set1/15-Acoustic___Orchestra__BPM95_2025-04-25-1654pm.mp3",
+      "duration": 303.793991,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "150-Funk___R_B__BPM108_2025-04-25-1819pm.mp3",
+      "fullPath": "temp-set1/150-Funk___R_B__BPM108_2025-04-25-1819pm.mp3",
+      "duration": 311.030998,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "151-Funk___R_B__BPM108_2025-04-25-1820pm.mp3",
+      "fullPath": "temp-set1/151-Funk___R_B__BPM108_2025-04-25-1820pm.mp3",
+      "duration": 311.030998,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "152-Funk___R_B__BPM115_2025-04-25-1606pm.mp3",
+      "fullPath": "temp-set1/152-Funk___R_B__BPM115_2025-04-25-1606pm.mp3",
+      "duration": 310.195011,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "153-Funk___Reggae__BPM105_2025-04-25-1644pm.mp3",
+      "fullPath": "temp-set1/153-Funk___Reggae__BPM105_2025-04-25-1644pm.mp3",
+      "duration": 313.093991,
+      "formattedDuration": "5:13"
+    },
+    {
+      "filename": "154-Funk___Reggae__BPM75_2025-04-25-1641pm.mp3",
+      "fullPath": "temp-set1/154-Funk___Reggae__BPM75_2025-04-25-1641pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "155-Funk___Reggae__BPM81_2025-04-25-1637pm.mp3",
+      "fullPath": "temp-set1/155-Funk___Reggae__BPM81_2025-04-25-1637pm.mp3",
+      "duration": 309.176009,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "156-Funk___Reggae__BPM95_2025-04-25-1639pm.mp3",
+      "fullPath": "temp-set1/156-Funk___Reggae__BPM95_2025-04-25-1639pm.mp3",
+      "duration": 303.793991,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "157-Funk___World__BPM115_2025-04-25-1605pm.mp3",
+      "fullPath": "temp-set1/157-Funk___World__BPM115_2025-04-25-1605pm.mp3",
+      "duration": 310.195011,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "158-Funk___World__BPM116_2025-04-25-1608pm.mp3",
+      "fullPath": "temp-set1/158-Funk___World__BPM116_2025-04-25-1608pm.mp3",
+      "duration": 307.608005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "159-Funk___World__BPM116_2025-04-25-1611pm.mp3",
+      "fullPath": "temp-set1/159-Funk___World__BPM116_2025-04-25-1611pm.mp3",
+      "duration": 307.608005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "16-Acoustic___Reggae__BPM95_2025-04-25-1652pm.mp3",
+      "fullPath": "temp-set1/16-Acoustic___Reggae__BPM95_2025-04-25-1652pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "160-Funk___World__BPM116_2025-04-25-1615pm.mp3",
+      "fullPath": "temp-set1/160-Funk___World__BPM116_2025-04-25-1615pm.mp3",
+      "duration": 307.608005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "161-Funk___World__BPM116_2025-04-25-1625pm.mp3",
+      "fullPath": "temp-set1/161-Funk___World__BPM116_2025-04-25-1625pm.mp3",
+      "duration": 307.608005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "162-Funk___World__BPM118_2025-04-25-1607pm.mp3",
+      "fullPath": "temp-set1/162-Funk___World__BPM118_2025-04-25-1607pm.mp3",
+      "duration": 311.761995,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "163-House___R_B__BPM100_2025-04-25-1705pm.mp3",
+      "fullPath": "temp-set1/163-House___R_B__BPM100_2025-04-25-1705pm.mp3",
+      "duration": 311.396009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "164-Lofi_Hip_Hop___Beats__BPM145 (1)_2025-04-25-1313pm.mp3",
+      "fullPath": "temp-set1/164-Lofi_Hip_Hop___Beats__BPM145 (1)_2025-04-25-1313pm.mp3",
+      "duration": 304.865011,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "165-Lofi_Hip_Hop___Beats__BPM145 (1)_2025-04-25-1714pm.mp3",
+      "fullPath": "temp-set1/165-Lofi_Hip_Hop___Beats__BPM145 (1)_2025-04-25-1714pm.mp3",
+      "duration": 304.865011,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "166-Lofi_Hip_Hop___Beats__BPM145.mp3",
+      "fullPath": "temp-set1/166-Lofi_Hip_Hop___Beats__BPM145.mp3",
+      "duration": 304.865011,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "167-Lofi_Hip_Hop___Beats__BPM88_2025-04-25-1315pm.mp3",
+      "fullPath": "temp-set1/167-Lofi_Hip_Hop___Beats__BPM88_2025-04-25-1315pm.mp3",
+      "duration": 305.545011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "168-Lofi_Hip_Hop___Beats__BPM88_2025-04-25-1716pm.mp3",
+      "fullPath": "temp-set1/168-Lofi_Hip_Hop___Beats__BPM88_2025-04-25-1716pm.mp3",
+      "duration": 305.545011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "169-Lofi_Hip_Hop___Beats__BPM90_2025-04-25-1314pm.mp3",
+      "fullPath": "temp-set1/169-Lofi_Hip_Hop___Beats__BPM90_2025-04-25-1314pm.mp3",
+      "duration": 309.176009,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "17-Afrobeats___Ambient__BPM90_2025-04-25-1731pm.mp3",
+      "fullPath": "temp-set1/17-Afrobeats___Ambient__BPM90_2025-04-25-1731pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "170-Lofi_Hip_Hop___Beats__BPM90_2025-04-25-1715pm.mp3",
+      "fullPath": "temp-set1/170-Lofi_Hip_Hop___Beats__BPM90_2025-04-25-1715pm.mp3",
+      "duration": 309.176009,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "171-Lofi_Hip_Hop___City_Pop__BPM90_2025-04-25-1721pm.mp3",
+      "fullPath": "temp-set1/171-Lofi_Hip_Hop___City_Pop__BPM90_2025-04-25-1721pm.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "172-Lofi_Hip_Hop___Electronica__BPM95_2025-04-25-1727pm.mp3",
+      "fullPath": "temp-set1/172-Lofi_Hip_Hop___Electronica__BPM95_2025-04-25-1727pm.mp3",
+      "duration": 304.839002,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "173-Lofi_Hip_Hop___R_B__BPM70 (1)_2025-04-25-1602pm.mp3",
+      "fullPath": "temp-set1/173-Lofi_Hip_Hop___R_B__BPM70 (1)_2025-04-25-1602pm.mp3",
+      "duration": 315.498005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "174-Lofi_Hip_Hop___R_B__BPM75 (1)_2025-04-25-1609pm.mp3",
+      "fullPath": "temp-set1/174-Lofi_Hip_Hop___R_B__BPM75 (1)_2025-04-25-1609pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "175-Lofi_Hip_Hop___R_B__BPM75 (1)_2025-04-25-1626pm.mp3",
+      "fullPath": "temp-set1/175-Lofi_Hip_Hop___R_B__BPM75 (1)_2025-04-25-1626pm.mp3",
+      "duration": 308.182993,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "176-Lofi_Hip_Hop___R_B__BPM78_2025-04-25-1624pm.mp3",
+      "fullPath": "temp-set1/176-Lofi_Hip_Hop___R_B__BPM78_2025-04-25-1624pm.mp3",
+      "duration": 308.260998,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "177-Lofi_Hip_Hop___R_B__BPM80 (1)_2025-04-25-1629pm.mp3",
+      "fullPath": "temp-set1/177-Lofi_Hip_Hop___R_B__BPM80 (1)_2025-04-25-1629pm.mp3",
+      "duration": 313.8,
+      "formattedDuration": "5:14"
+    },
+    {
+      "filename": "178-Lofi_Hip_Hop___R_B__BPM85 (1)_2025-04-25-1617pm.mp3",
+      "fullPath": "temp-set1/178-Lofi_Hip_Hop___R_B__BPM85 (1)_2025-04-25-1617pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "179-Lofi_Hip_Hop___R_B__BPM95_2025-04-25-1619pm.mp3",
+      "fullPath": "temp-set1/179-Lofi_Hip_Hop___R_B__BPM95_2025-04-25-1619pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "18-Afrobeats___Ambient__BPM90_2025-04-25-1732pm.mp3",
+      "fullPath": "temp-set1/18-Afrobeats___Ambient__BPM90_2025-04-25-1732pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "180-Lofi_Hip_Hop___R_B__BPM95_2025-04-25-1726pm.mp3",
+      "fullPath": "temp-set1/180-Lofi_Hip_Hop___R_B__BPM95_2025-04-25-1726pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "181-Lofi_Hip_Hop___Reggae__BPM100_2025-04-25-1704pm.mp3",
+      "fullPath": "temp-set1/181-Lofi_Hip_Hop___Reggae__BPM100_2025-04-25-1704pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "182-Lofi_Hip_Hop___Reggae__BPM75_2025-04-25-1609pm.mp3",
+      "fullPath": "temp-set1/182-Lofi_Hip_Hop___Reggae__BPM75_2025-04-25-1609pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "183-Lofi_Hip_Hop___Reggae__BPM75_2025-04-25-1623pm.mp3",
+      "fullPath": "temp-set1/183-Lofi_Hip_Hop___Reggae__BPM75_2025-04-25-1623pm.mp3",
+      "duration": 306.485011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "184-Lofi_Hip_Hop___Reggae__BPM80_2025-04-25-1604pm.mp3",
+      "fullPath": "temp-set1/184-Lofi_Hip_Hop___Reggae__BPM80_2025-04-25-1604pm.mp3",
+      "duration": 313.8,
+      "formattedDuration": "5:14"
+    },
+    {
+      "filename": "185-Lofi_Hip_Hop___Reggae__BPM80_2025-04-25-1622pm.mp3",
+      "fullPath": "temp-set1/185-Lofi_Hip_Hop___Reggae__BPM80_2025-04-25-1622pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "186-Lofi_Hip_Hop___Reggae__BPM95_2025-04-25-1612pm.mp3",
+      "fullPath": "temp-set1/186-Lofi_Hip_Hop___Reggae__BPM95_2025-04-25-1612pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "187-Lofi_Hip_Hop___Reggae__BPM95_2025-04-25-1618pm.mp3",
+      "fullPath": "temp-set1/187-Lofi_Hip_Hop___Reggae__BPM95_2025-04-25-1618pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "188-Lofi_Hip_Hop___UK_Garage__BPM160_2025-04-25-1758pm.mp3",
+      "fullPath": "temp-set1/188-Lofi_Hip_Hop___UK_Garage__BPM160_2025-04-25-1758pm.mp3",
+      "duration": 306.092993,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "189-Lofi_Hip_Hop___UK_Garage__BPM170_2025-04-25-1757pm.mp3",
+      "fullPath": "temp-set1/189-Lofi_Hip_Hop___UK_Garage__BPM170_2025-04-25-1757pm.mp3",
+      "duration": 305.388005,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "19-Afrobeats___Ambient__BPM90_2025-04-25-1733pm.mp3",
+      "fullPath": "temp-set1/19-Afrobeats___Ambient__BPM90_2025-04-25-1733pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "190-Lofi_Hip_Hop___World__BPM85_2025-04-25-1614pm.mp3",
+      "fullPath": "temp-set1/190-Lofi_Hip_Hop___World__BPM85_2025-04-25-1614pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "191-Lofi_Hip_Hop___World__BPM90_2025-04-25-1626pm.mp3",
+      "fullPath": "temp-set1/191-Lofi_Hip_Hop___World__BPM90_2025-04-25-1626pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "192-Orchestra___City_Pop__BPM120_2025-04-25-1641pm.mp3",
+      "fullPath": "temp-set1/192-Orchestra___City_Pop__BPM120_2025-04-25-1641pm.mp3",
+      "duration": 305.048005,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "193-Orchestra___City_Pop__BPM93_2025-04-25-1645pm.mp3",
+      "fullPath": "temp-set1/193-Orchestra___City_Pop__BPM93_2025-04-25-1645pm.mp3",
+      "duration": 308.758005,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "194-Orchestra___Funk__BPM103_2025-04-25-1636pm.mp3",
+      "fullPath": "temp-set1/194-Orchestra___Funk__BPM103_2025-04-25-1636pm.mp3",
+      "duration": 311.135011,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "195-Orchestra___Funk__BPM93_2025-04-25-1642pm.mp3",
+      "fullPath": "temp-set1/195-Orchestra___Funk__BPM93_2025-04-25-1642pm.mp3",
+      "duration": 312.231995,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "196-Orchestra___R_B__BPM93 (1)_2025-04-25-1726pm.mp3",
+      "fullPath": "temp-set1/196-Orchestra___R_B__BPM93 (1)_2025-04-25-1726pm.mp3",
+      "duration": 312.231995,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "197-Orchestra___Reggae__BPM103_2025-04-25-1656pm.mp3",
+      "fullPath": "temp-set1/197-Orchestra___Reggae__BPM103_2025-04-25-1656pm.mp3",
+      "duration": 309.62,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "198-Orchestra___Reggae__BPM103_2025-04-25-1700pm.mp3",
+      "fullPath": "temp-set1/198-Orchestra___Reggae__BPM103_2025-04-25-1700pm.mp3",
+      "duration": 309.62,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "199-Orchestra___Reggae__BPM80_2025-04-25-1638pm.mp3",
+      "fullPath": "temp-set1/199-Orchestra___Reggae__BPM80_2025-04-25-1638pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "20-Afrobeats___Ambient__BPM95_2025-04-25-1732pm.mp3",
+      "fullPath": "temp-set1/20-Afrobeats___Ambient__BPM95_2025-04-25-1732pm.mp3",
+      "duration": 306.850998,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "200-Orchestra___Reggae__BPM80_2025-04-25-1640pm.mp3",
+      "fullPath": "temp-set1/200-Orchestra___Reggae__BPM80_2025-04-25-1640pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "201-Orchestra___Reggae__BPM85_2025-04-25-1636pm.mp3",
+      "fullPath": "temp-set1/201-Orchestra___Reggae__BPM85_2025-04-25-1636pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "202-Orchestra___Reggae__BPM85_2025-04-25-1646pm.mp3",
+      "fullPath": "temp-set1/202-Orchestra___Reggae__BPM85_2025-04-25-1646pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "203-Orchestra___Reggae__BPM85_2025-04-25-1649pm.mp3",
+      "fullPath": "temp-set1/203-Orchestra___Reggae__BPM85_2025-04-25-1649pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "204-Orchestra___Reggae__BPM90_2025-04-25-1635pm.mp3",
+      "fullPath": "temp-set1/204-Orchestra___Reggae__BPM90_2025-04-25-1635pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "205-Orchestra___Reggae__BPM90_2025-04-25-1641pm.mp3",
+      "fullPath": "temp-set1/205-Orchestra___Reggae__BPM90_2025-04-25-1641pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "206-Orchestra___Reggae__BPM90_2025-04-25-1658pm.mp3",
+      "fullPath": "temp-set1/206-Orchestra___Reggae__BPM90_2025-04-25-1658pm.mp3",
+      "duration": 311.552993,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "207-Orchestra___Reggae__BPM90_2025-04-25-1659pm.mp3",
+      "fullPath": "temp-set1/207-Orchestra___Reggae__BPM90_2025-04-25-1659pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "208-Orchestra___Reggae__BPM90_2025-04-25-1702pm.mp3",
+      "fullPath": "temp-set1/208-Orchestra___Reggae__BPM90_2025-04-25-1702pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "209-Pop___Hip_Hop__BPM110_2025-04-25-1657pm.mp3",
+      "fullPath": "temp-set1/209-Pop___Hip_Hop__BPM110_2025-04-25-1657pm.mp3",
+      "duration": 307.478005,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "21-Afrobeats___City_Pop__BPM90_2025-04-25-1724pm.mp3",
+      "fullPath": "temp-set1/21-Afrobeats___City_Pop__BPM90_2025-04-25-1724pm.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "210-R_B___Afrobeats__BPM115_2025-04-25-1814pm.mp3",
+      "fullPath": "temp-set1/210-R_B___Afrobeats__BPM115_2025-04-25-1814pm.mp3",
+      "duration": 308.940998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "211-R_B___Electronica__BPM90_2025-04-25-1727pm.mp3",
+      "fullPath": "temp-set1/211-R_B___Electronica__BPM90_2025-04-25-1727pm.mp3",
+      "duration": 310.456009,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "212-R_B___Electronica__BPM90_2025-04-25-1728pm.mp3",
+      "fullPath": "temp-set1/212-R_B___Electronica__BPM90_2025-04-25-1728pm.mp3",
+      "duration": 312.467007,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "213-R_B___Lofi_Hip_Hop__BPM100_2025-04-25-1613pm.mp3",
+      "fullPath": "temp-set1/213-R_B___Lofi_Hip_Hop__BPM100_2025-04-25-1613pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "214-R_B___Lofi_Hip_Hop__BPM100_2025-04-25-1617pm.mp3",
+      "fullPath": "temp-set1/214-R_B___Lofi_Hip_Hop__BPM100_2025-04-25-1617pm.mp3",
+      "duration": 309.671995,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "215-R_B___Lofi_Hip_Hop__BPM105_2025-04-25-1616pm.mp3",
+      "fullPath": "temp-set1/215-R_B___Lofi_Hip_Hop__BPM105_2025-04-25-1616pm.mp3",
+      "duration": 311.396009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "216-R_B___Lofi_Hip_Hop__BPM115_2025-04-25-1606pm.mp3",
+      "fullPath": "temp-set1/216-R_B___Lofi_Hip_Hop__BPM115_2025-04-25-1606pm.mp3",
+      "duration": 311.500998,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "217-R_B___Lofi_Hip_Hop__BPM75_2025-04-25-1727pm.mp3",
+      "fullPath": "temp-set1/217-R_B___Lofi_Hip_Hop__BPM75_2025-04-25-1727pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "218-R_B___Lofi_Hip_Hop__BPM80_2025-04-25-1621pm.mp3",
+      "fullPath": "temp-set1/218-R_B___Lofi_Hip_Hop__BPM80_2025-04-25-1621pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "219-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1607pm.mp3",
+      "fullPath": "temp-set1/219-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1607pm.mp3",
+      "duration": 303.82,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "22-Afrobeats___City_Pop__BPM90_2025-04-25-1725pm.mp3",
+      "fullPath": "temp-set1/22-Afrobeats___City_Pop__BPM90_2025-04-25-1725pm.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "220-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1618pm.mp3",
+      "fullPath": "temp-set1/220-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1618pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "221-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1627pm.mp3",
+      "fullPath": "temp-set1/221-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1627pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "222-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1629pm.mp3",
+      "fullPath": "temp-set1/222-R_B___Lofi_Hip_Hop__BPM85_2025-04-25-1629pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "223-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1610pm.mp3",
+      "fullPath": "temp-set1/223-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1610pm.mp3",
+      "duration": 308.34,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "224-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1621pm.mp3",
+      "fullPath": "temp-set1/224-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1621pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "225-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1726pm.mp3",
+      "fullPath": "temp-set1/225-R_B___Lofi_Hip_Hop__BPM90 (1)_2025-04-25-1726pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "226-R_B___Lofi_Hip_Hop__BPM90.mp3",
+      "fullPath": "temp-set1/226-R_B___Lofi_Hip_Hop__BPM90.mp3",
+      "duration": 193.420998,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "227-R_B___Lofi_Hip_Hop__BPM95 (1)_2025-04-25-1624pm.mp3",
+      "fullPath": "temp-set1/227-R_B___Lofi_Hip_Hop__BPM95 (1)_2025-04-25-1624pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "228-R_B___Reggae__BPM100_2025-04-25-1618pm.mp3",
+      "fullPath": "temp-set1/228-R_B___Reggae__BPM100_2025-04-25-1618pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "229-R_B___Reggae__BPM85_2025-04-25-1606pm.mp3",
+      "fullPath": "temp-set1/229-R_B___Reggae__BPM85_2025-04-25-1606pm.mp3",
+      "duration": 305.727007,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "23-Afrobeats___Lofi_Hip_Hop__BPM100_2025-04-25-1759pm.mp3",
+      "fullPath": "temp-set1/23-Afrobeats___Lofi_Hip_Hop__BPM100_2025-04-25-1759pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "230-R_B___Reggae__BPM85_2025-04-25-1622pm.mp3",
+      "fullPath": "temp-set1/230-R_B___Reggae__BPM85_2025-04-25-1622pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "231-R_B___Reggae__BPM90_2025-04-25-1613pm.mp3",
+      "fullPath": "temp-set1/231-R_B___Reggae__BPM90_2025-04-25-1613pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "232-R_B___World__BPM100_2025-04-25-1601pm.mp3",
+      "fullPath": "temp-set1/232-R_B___World__BPM100_2025-04-25-1601pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "233-R_B___World__BPM100_2025-04-25-1620pm.mp3",
+      "fullPath": "temp-set1/233-R_B___World__BPM100_2025-04-25-1620pm.mp3",
+      "duration": 308.34,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "234-R_B___World__BPM100_2025-04-25-1628pm.mp3",
+      "fullPath": "temp-set1/234-R_B___World__BPM100_2025-04-25-1628pm.mp3",
+      "duration": 307.790998,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "235-R_B___World__BPM105_2025-04-25-1603pm.mp3",
+      "fullPath": "temp-set1/235-R_B___World__BPM105_2025-04-25-1603pm.mp3",
+      "duration": 311.396009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "236-R_B___World__BPM105_2025-04-25-1618pm.mp3",
+      "fullPath": "temp-set1/236-R_B___World__BPM105_2025-04-25-1618pm.mp3",
+      "duration": 312.467007,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "237-R_B___World__BPM110_2025-04-25-1605pm.mp3",
+      "fullPath": "temp-set1/237-R_B___World__BPM110_2025-04-25-1605pm.mp3",
+      "duration": 304.812993,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "238-R_B___World__BPM110_2025-04-25-1622pm.mp3",
+      "fullPath": "temp-set1/238-R_B___World__BPM110_2025-04-25-1622pm.mp3",
+      "duration": 306.407007,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "239-R_B___World__BPM115_2025-04-25-1603pm.mp3",
+      "fullPath": "temp-set1/239-R_B___World__BPM115_2025-04-25-1603pm.mp3",
+      "duration": 308.940998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "24-Afrobeats___Lofi_Hip_Hop__BPM105_2025-04-25-1757pm.mp3",
+      "fullPath": "temp-set1/24-Afrobeats___Lofi_Hip_Hop__BPM105_2025-04-25-1757pm.mp3",
+      "duration": 311.892993,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "240-R_B___World__BPM120_2025-04-25-1604pm.mp3",
+      "fullPath": "temp-set1/240-R_B___World__BPM120_2025-04-25-1604pm.mp3",
+      "duration": 304.812993,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "241-R_B___World__BPM80_2025-04-25-1615pm.mp3",
+      "fullPath": "temp-set1/241-R_B___World__BPM80_2025-04-25-1615pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "242-R_B___World__BPM90_2025-04-25-1616pm.mp3",
+      "fullPath": "temp-set1/242-R_B___World__BPM90_2025-04-25-1616pm.mp3",
+      "duration": 308.34,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "243-Reggae__BPM70_2025-04-25-1709pm.mp3",
+      "fullPath": "temp-set1/243-Reggae__BPM70_2025-04-25-1709pm.mp3",
+      "duration": 313.8,
+      "formattedDuration": "5:14"
+    },
+    {
+      "filename": "244-Reggae__BPM75_2025-04-25-1708pm.mp3",
+      "fullPath": "temp-set1/244-Reggae__BPM75_2025-04-25-1708pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "245-Reggae__BPM75_2025-04-25-1709pm.mp3",
+      "fullPath": "temp-set1/245-Reggae__BPM75_2025-04-25-1709pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "246-Reggae__BPM75_2025-04-25-1710pm.mp3",
+      "fullPath": "temp-set1/246-Reggae__BPM75_2025-04-25-1710pm.mp3",
+      "duration": 306.485011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "247-Reggae__BPM80_2025-04-25-1710pm.mp3",
+      "fullPath": "temp-set1/247-Reggae__BPM80_2025-04-25-1710pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "248-Reggae__BPM85_2025-04-25-1708pm.mp3",
+      "fullPath": "temp-set1/248-Reggae__BPM85_2025-04-25-1708pm.mp3",
+      "duration": 307.451995,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "249-Reggae__BPM85_2025-04-25-1710pm.mp3",
+      "fullPath": "temp-set1/249-Reggae__BPM85_2025-04-25-1710pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "25-Afrobeats___Lofi_Hip_Hop__BPM105_2025-04-25-1758pm.mp3",
+      "fullPath": "temp-set1/25-Afrobeats___Lofi_Hip_Hop__BPM105_2025-04-25-1758pm.mp3",
+      "duration": 313.093991,
+      "formattedDuration": "5:13"
+    },
+    {
+      "filename": "250-Reggae__BPM85_2025-04-25-1711pm.mp3",
+      "fullPath": "temp-set1/250-Reggae__BPM85_2025-04-25-1711pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "251-Reggae___Funk__BPM75_2025-04-25-1656pm.mp3",
+      "fullPath": "temp-set1/251-Reggae___Funk__BPM75_2025-04-25-1656pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "252-Reggae___Funk__BPM85_2025-04-25-1647pm.mp3",
+      "fullPath": "temp-set1/252-Reggae___Funk__BPM85_2025-04-25-1647pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "253-Reggae___Lofi_Hip_Hop__BPM75_2025-04-25-1717pm.mp3",
+      "fullPath": "temp-set1/253-Reggae___Lofi_Hip_Hop__BPM75_2025-04-25-1717pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "254-Reggae___Lofi_Hip_Hop__BPM75_2025-04-25-1718pm.mp3",
+      "fullPath": "temp-set1/254-Reggae___Lofi_Hip_Hop__BPM75_2025-04-25-1718pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "255-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1612pm.mp3",
+      "fullPath": "temp-set1/255-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1612pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "256-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1717pm.mp3",
+      "fullPath": "temp-set1/256-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1717pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "257-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1722pm.mp3",
+      "fullPath": "temp-set1/257-Reggae___Lofi_Hip_Hop__BPM85_2025-04-25-1722pm.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "258-Reggae___Orchestra__BPM80_2025-04-25-1657pm.mp3",
+      "fullPath": "temp-set1/258-Reggae___Orchestra__BPM80_2025-04-25-1657pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "259-Reggae___Orchestra__BPM90_2025-04-25-1646pm.mp3",
+      "fullPath": "temp-set1/259-Reggae___Orchestra__BPM90_2025-04-25-1646pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "26-Afrobeats___Lofi_Hip_Hop__BPM105_2025-04-25-1800pm.mp3",
+      "fullPath": "temp-set1/26-Afrobeats___Lofi_Hip_Hop__BPM105_2025-04-25-1800pm.mp3",
+      "duration": 313.093991,
+      "formattedDuration": "5:13"
+    },
+    {
+      "filename": "260-Reggae___Orchestra__BPM90_2025-04-25-1653pm.mp3",
+      "fullPath": "temp-set1/260-Reggae___Orchestra__BPM90_2025-04-25-1653pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "261-Reggae___R_B__BPM70_2025-04-25-1627pm.mp3",
+      "fullPath": "temp-set1/261-Reggae___R_B__BPM70_2025-04-25-1627pm.mp3",
+      "duration": 314.582993,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "262-Reggae___R_B__BPM75_2025-04-25-1705pm.mp3",
+      "fullPath": "temp-set1/262-Reggae___R_B__BPM75_2025-04-25-1705pm.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "263-Reggae___R_B__BPM85_2025-04-25-1623pm.mp3",
+      "fullPath": "temp-set1/263-Reggae___R_B__BPM85_2025-04-25-1623pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "264-Rock___Beats__BPM70_2025-04-25-1315pm.mp3",
+      "fullPath": "temp-set1/264-Rock___Beats__BPM70_2025-04-25-1315pm.mp3",
+      "duration": 315.498005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "265-Rock___Beats__BPM70_2025-04-25-1716pm.mp3",
+      "fullPath": "temp-set1/265-Rock___Beats__BPM70_2025-04-25-1716pm.mp3",
+      "duration": 315.498005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "266-UK_Garage___Afrobeats__BPM120 (1)_2025-04-25-1814pm.mp3",
+      "fullPath": "temp-set1/266-UK_Garage___Afrobeats__BPM120 (1)_2025-04-25-1814pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "267-UK_Garage___Afrobeats__BPM120_2025-04-25-1759pm.mp3",
+      "fullPath": "temp-set1/267-UK_Garage___Afrobeats__BPM120_2025-04-25-1759pm.mp3",
+      "duration": 305.675011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "268-World___City_Pop__BPM120_2025-04-25-1800pm.mp3",
+      "fullPath": "temp-set1/268-World___City_Pop__BPM120_2025-04-25-1800pm.mp3",
+      "duration": 30.225011,
+      "formattedDuration": "0:30"
+    },
+    {
+      "filename": "269-World___City_Pop__BPM140_2025-04-25-1800pm.mp3",
+      "fullPath": "temp-set1/269-World___City_Pop__BPM140_2025-04-25-1800pm.mp3",
+      "duration": 302.931995,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "27-Afrobeats___Lofi_Hip_Hop__BPM80_2025-04-25-1731pm.mp3",
+      "fullPath": "temp-set1/27-Afrobeats___Lofi_Hip_Hop__BPM80_2025-04-25-1731pm.mp3",
+      "duration": 311.37,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "270-World___Lofi_Hip_Hop__BPM100_2025-04-25-1608pm.mp3",
+      "fullPath": "temp-set1/270-World___Lofi_Hip_Hop__BPM100_2025-04-25-1608pm.mp3",
+      "duration": 309.671995,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "271-World___Lofi_Hip_Hop__BPM105_2025-04-25-1614pm.mp3",
+      "fullPath": "temp-set1/271-World___Lofi_Hip_Hop__BPM105_2025-04-25-1614pm.mp3",
+      "duration": 311.892993,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "272-World___Lofi_Hip_Hop__BPM105_2025-04-25-1617pm.mp3",
+      "fullPath": "temp-set1/272-World___Lofi_Hip_Hop__BPM105_2025-04-25-1617pm.mp3",
+      "duration": 311.892993,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "273-World___Lofi_Hip_Hop__BPM105_2025-04-25-1621pm.mp3",
+      "fullPath": "temp-set1/273-World___Lofi_Hip_Hop__BPM105_2025-04-25-1621pm.mp3",
+      "duration": 311.396009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "274-World___Lofi_Hip_Hop__BPM115_2025-04-25-1630pm.mp3",
+      "fullPath": "temp-set1/274-World___Lofi_Hip_Hop__BPM115_2025-04-25-1630pm.mp3",
+      "duration": 311.500998,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "275-World___Lofi_Hip_Hop__BPM115_2025-04-25-1632pm.mp3",
+      "fullPath": "temp-set1/275-World___Lofi_Hip_Hop__BPM115_2025-04-25-1632pm.mp3",
+      "duration": 311.500998,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "276-World___Lofi_Hip_Hop__BPM120_2025-04-25-1602pm.mp3",
+      "fullPath": "temp-set1/276-World___Lofi_Hip_Hop__BPM120_2025-04-25-1602pm.mp3",
+      "duration": 305.675011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "277-World___Lofi_Hip_Hop__BPM120_2025-04-25-1631pm.mp3",
+      "fullPath": "temp-set1/277-World___Lofi_Hip_Hop__BPM120_2025-04-25-1631pm.mp3",
+      "duration": 306.980998,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "278-World___Lofi_Hip_Hop__BPM85_2025-04-25-1613pm.mp3",
+      "fullPath": "temp-set1/278-World___Lofi_Hip_Hop__BPM85_2025-04-25-1613pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "279-World___Lofi_Hip_Hop__BPM90_2025-04-25-1624pm.mp3",
+      "fullPath": "temp-set1/279-World___Lofi_Hip_Hop__BPM90_2025-04-25-1624pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "28-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1720pm.mp3",
+      "fullPath": "temp-set1/28-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1720pm.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "280-World___Lofi_Hip_Hop__BPM90_2025-04-25-1627pm.mp3",
+      "fullPath": "temp-set1/280-World___Lofi_Hip_Hop__BPM90_2025-04-25-1627pm.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "281-World___Lofi_Hip_Hop__BPM95_2025-04-25-1603pm.mp3",
+      "fullPath": "temp-set1/281-World___Lofi_Hip_Hop__BPM95_2025-04-25-1603pm.mp3",
+      "duration": 303.246009,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "282-World___Lofi_Hip_Hop__BPM95_2025-04-25-1611pm.mp3",
+      "fullPath": "temp-set1/282-World___Lofi_Hip_Hop__BPM95_2025-04-25-1611pm.mp3",
+      "duration": 305.127007,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "283-World___Lofi_Hip_Hop__BPM95_2025-04-25-1801pm.mp3",
+      "fullPath": "temp-set1/283-World___Lofi_Hip_Hop__BPM95_2025-04-25-1801pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "284-World___R_B__BPM100_2025-04-25-1613pm.mp3",
+      "fullPath": "temp-set1/284-World___R_B__BPM100_2025-04-25-1613pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "285-World___R_B__BPM100_2025-04-25-1616pm.mp3",
+      "fullPath": "temp-set1/285-World___R_B__BPM100_2025-04-25-1616pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "286-World___R_B__BPM100_2025-04-25-1619pm.mp3",
+      "fullPath": "temp-set1/286-World___R_B__BPM100_2025-04-25-1619pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "287-World___R_B__BPM100_2025-04-25-1630pm.mp3",
+      "fullPath": "temp-set1/287-World___R_B__BPM100_2025-04-25-1630pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "288-World___R_B__BPM100_2025-04-25-1632pm.mp3",
+      "fullPath": "temp-set1/288-World___R_B__BPM100_2025-04-25-1632pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "289-World___R_B__BPM105_2025-04-25-1602pm.mp3",
+      "fullPath": "temp-set1/289-World___R_B__BPM105_2025-04-25-1602pm.mp3",
+      "duration": 313.093991,
+      "formattedDuration": "5:13"
+    },
+    {
+      "filename": "29-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1724pm.mp3",
+      "fullPath": "temp-set1/29-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1724pm.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "290-World___R_B__BPM105_2025-04-25-1604pm.mp3",
+      "fullPath": "temp-set1/290-World___R_B__BPM105_2025-04-25-1604pm.mp3",
+      "duration": 314.582993,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "291-World___R_B__BPM105_2025-04-25-1605pm.mp3",
+      "fullPath": "temp-set1/291-World___R_B__BPM105_2025-04-25-1605pm.mp3",
+      "duration": 310.926009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "292-World___R_B__BPM105_2025-04-25-1625pm.mp3",
+      "fullPath": "temp-set1/292-World___R_B__BPM105_2025-04-25-1625pm.mp3",
+      "duration": 311.892993,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "293-World___R_B__BPM110_2025-04-25-1608pm.mp3",
+      "fullPath": "temp-set1/293-World___R_B__BPM110_2025-04-25-1608pm.mp3",
+      "duration": 307.478005,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "294-World___R_B__BPM110_2025-04-25-1611pm.mp3",
+      "fullPath": "temp-set1/294-World___R_B__BPM110_2025-04-25-1611pm.mp3",
+      "duration": 305.545011,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "295-World___R_B__BPM110_2025-04-25-1630pm.mp3",
+      "fullPath": "temp-set1/295-World___R_B__BPM110_2025-04-25-1630pm.mp3",
+      "duration": 306.407007,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "296-World___R_B__BPM115_2025-04-25-1607pm.mp3",
+      "fullPath": "temp-set1/296-World___R_B__BPM115_2025-04-25-1607pm.mp3",
+      "duration": 310.195011,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "297-World___R_B__BPM115_2025-04-25-1614pm.mp3",
+      "fullPath": "temp-set1/297-World___R_B__BPM115_2025-04-25-1614pm.mp3",
+      "duration": 308.940998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "298-World___R_B__BPM115_2025-04-25-1620pm.mp3",
+      "fullPath": "temp-set1/298-World___R_B__BPM115_2025-04-25-1620pm.mp3",
+      "duration": 310.195011,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "299-World___R_B__BPM140_2025-04-25-1604pm.mp3",
+      "fullPath": "temp-set1/299-World___R_B__BPM140_2025-04-25-1604pm.mp3",
+      "duration": 304.526009,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "30-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1757pm.mp3",
+      "fullPath": "temp-set1/30-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1757pm.mp3",
+      "duration": 305.727007,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "300-World___R_B__BPM85_2025-04-25-1612pm.mp3",
+      "fullPath": "temp-set1/300-World___R_B__BPM85_2025-04-25-1612pm.mp3",
+      "duration": 303.82,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "301-World___R_B__BPM85_2025-04-25-1626pm.mp3",
+      "fullPath": "temp-set1/301-World___R_B__BPM85_2025-04-25-1626pm.mp3",
+      "duration": 306.537007,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "302-World___R_B__BPM90_2025-04-25-1628pm.mp3",
+      "fullPath": "temp-set1/302-World___R_B__BPM90_2025-04-25-1628pm.mp3",
+      "duration": 311.552993,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "303-World___R_B__BPM95_2025-04-25-1619pm.mp3",
+      "fullPath": "temp-set1/303-World___R_B__BPM95_2025-04-25-1619pm.mp3",
+      "duration": 302.722993,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "304-World___R_B__BPM95_2025-04-25-1625pm.mp3",
+      "fullPath": "temp-set1/304-World___R_B__BPM95_2025-04-25-1625pm.mp3",
+      "duration": 305.936009,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "305-World___R_B__BPM95_2025-04-25-1629pm.mp3",
+      "fullPath": "temp-set1/305-World___R_B__BPM95_2025-04-25-1629pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "306-World___Reggae__BPM105_2025-04-25-1631pm.mp3",
+      "fullPath": "temp-set1/306-World___Reggae__BPM105_2025-04-25-1631pm.mp3",
+      "duration": 313.093991,
+      "formattedDuration": "5:13"
+    },
+    {
+      "filename": "307-World___Reggae__BPM65_2025-04-25-1623pm.mp3",
+      "fullPath": "temp-set1/307-World___Reggae__BPM65_2025-04-25-1623pm.mp3",
+      "duration": 308.260998,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "308-World___Reggae__BPM75_2025-04-25-1610pm.mp3",
+      "fullPath": "temp-set1/308-World___Reggae__BPM75_2025-04-25-1610pm.mp3",
+      "duration": 307.269002,
+      "formattedDuration": "5:07"
+    },
+    {
+      "filename": "309-World___Reggae__BPM95_2025-04-25-1609pm.mp3",
+      "fullPath": "temp-set1/309-World___Reggae__BPM95_2025-04-25-1609pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "31-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1759pm.mp3",
+      "fullPath": "temp-set1/31-Afrobeats___Lofi_Hip_Hop__BPM85_2025-04-25-1759pm.mp3",
+      "duration": 303.82,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "32-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1722pm.mp3",
+      "fullPath": "temp-set1/32-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1722pm.mp3",
+      "duration": 192.715011,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "33-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1723pm.mp3",
+      "fullPath": "temp-set1/33-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1723pm.mp3",
+      "duration": 192.715011,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "34-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1725pm.mp3",
+      "fullPath": "temp-set1/34-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1725pm.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "35-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1730pm.mp3",
+      "fullPath": "temp-set1/35-Afrobeats___Lofi_Hip_Hop__BPM90_2025-04-25-1730pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "36-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1720pm.mp3",
+      "fullPath": "temp-set1/36-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1720pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "37-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1721pm.mp3",
+      "fullPath": "temp-set1/37-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1721pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "38-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1722pm.mp3",
+      "fullPath": "temp-set1/38-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1722pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "39-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1723pm.mp3",
+      "fullPath": "temp-set1/39-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1723pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "40-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1724pm.mp3",
+      "fullPath": "temp-set1/40-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1724pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "41-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1725pm.mp3",
+      "fullPath": "temp-set1/41-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1725pm.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "42-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1759pm.mp3",
+      "fullPath": "temp-set1/42-Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-25-1759pm.mp3",
+      "duration": 304.056009,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "43-Afrobeats___Tropical_House__BPM95_2025-04-25-1723pm.mp3",
+      "fullPath": "temp-set1/43-Afrobeats___Tropical_House__BPM95_2025-04-25-1723pm.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "44-Ambient__BPM120_2025-04-25-1312pm.mp3",
+      "fullPath": "temp-set1/44-Ambient__BPM120_2025-04-25-1312pm.mp3",
+      "duration": 304.081995,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "45-Ambient__BPM120_2025-04-25-1713pm.mp3",
+      "fullPath": "temp-set1/45-Ambient__BPM120_2025-04-25-1713pm.mp3",
+      "duration": 304.081995,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "46-Ambient__BPM70_2025-04-25-1312pm.mp3",
+      "fullPath": "temp-set1/46-Ambient__BPM70_2025-04-25-1312pm.mp3",
+      "duration": 315.498005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "47-Ambient__BPM70_2025-04-25-1713pm.mp3",
+      "fullPath": "temp-set1/47-Ambient__BPM70_2025-04-25-1713pm.mp3",
+      "duration": 315.498005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "48-Beats__BPM80 (1)_2025-04-25-1712pm.mp3",
+      "fullPath": "temp-set1/48-Beats__BPM80 (1)_2025-04-25-1712pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "49-Beats__BPM80.mp3",
+      "fullPath": "temp-set1/49-Beats__BPM80.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "50-Beats__BPM80_2025-04-25-1311pm.mp3",
+      "fullPath": "temp-set1/50-Beats__BPM80_2025-04-25-1311pm.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "51-Beats__BPM80_2025-04-25T05-10-11-187Z.mp3",
+      "fullPath": "temp-set1/51-Beats__BPM80_2025-04-25T05-10-11-187Z.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "52-Beats___Lofi_Hip_Hop__BPM120_2025-04-25-1315pm.mp3",
+      "fullPath": "temp-set1/52-Beats___Lofi_Hip_Hop__BPM120_2025-04-25-1315pm.mp3",
+      "duration": 306.198005,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "53-Beats___Lofi_Hip_Hop__BPM120_2025-04-25-1715pm.mp3",
+      "fullPath": "temp-set1/53-Beats___Lofi_Hip_Hop__BPM120_2025-04-25-1715pm.mp3",
+      "duration": 306.198005,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "54-Beats___Lofi_Hip_Hop__BPM80_2025-04-25-1728pm.mp3",
+      "fullPath": "temp-set1/54-Beats___Lofi_Hip_Hop__BPM80_2025-04-25-1728pm.mp3",
+      "duration": 311.37,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "55-Beats___Lofi_Hip_Hop__BPM85 (1).mp3",
+      "fullPath": "temp-set1/55-Beats___Lofi_Hip_Hop__BPM85 (1).mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "56-Beats___Lofi_Hip_Hop__BPM85 (2).mp3",
+      "fullPath": "temp-set1/56-Beats___Lofi_Hip_Hop__BPM85 (2).mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "57-Beats___Lofi_Hip_Hop__BPM85 (3)_2025-04-25-1313pm.mp3",
+      "fullPath": "temp-set1/57-Beats___Lofi_Hip_Hop__BPM85 (3)_2025-04-25-1313pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "58-Beats___Lofi_Hip_Hop__BPM85 (3)_2025-04-25-1714pm.mp3",
+      "fullPath": "temp-set1/58-Beats___Lofi_Hip_Hop__BPM85 (3)_2025-04-25-1714pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "59-Beats___Lofi_Hip_Hop__BPM85 (3)_2025-04-25-1730pm.mp3",
+      "fullPath": "temp-set1/59-Beats___Lofi_Hip_Hop__BPM85 (3)_2025-04-25-1730pm.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "60-Beats___Lofi_Hip_Hop__BPM85.mp3",
+      "fullPath": "temp-set1/60-Beats___Lofi_Hip_Hop__BPM85.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "61-Beats___Lofi_Hip_Hop__BPM88_2025-04-25-1728pm.mp3",
+      "fullPath": "temp-set1/61-Beats___Lofi_Hip_Hop__BPM88_2025-04-25-1728pm.mp3",
+      "duration": 305.91,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "62-Beats___Lofi_Hip_Hop__BPM88_2025-04-25-1731pm.mp3",
+      "fullPath": "temp-set1/62-Beats___Lofi_Hip_Hop__BPM88_2025-04-25-1731pm.mp3",
+      "duration": 305.91,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "63-Beats___Lofi_Hip_Hop__BPM90_2025-04-25-1729pm.mp3",
+      "fullPath": "temp-set1/63-Beats___Lofi_Hip_Hop__BPM90_2025-04-25-1729pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "64-Beats___Lofi_Hip_Hop__BPM92_2025-04-25-1314pm.mp3",
+      "fullPath": "temp-set1/64-Beats___Lofi_Hip_Hop__BPM92_2025-04-25-1314pm.mp3",
+      "duration": 314.688005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "65-Beats___Lofi_Hip_Hop__BPM92_2025-04-25-1714pm.mp3",
+      "fullPath": "temp-set1/65-Beats___Lofi_Hip_Hop__BPM92_2025-04-25-1714pm.mp3",
+      "duration": 314.688005,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "66-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1313pm.mp3",
+      "fullPath": "temp-set1/66-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1313pm.mp3",
+      "duration": 305.127007,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "67-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1314pm.mp3",
+      "fullPath": "temp-set1/67-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1314pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "68-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1713pm.mp3",
+      "fullPath": "temp-set1/68-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1713pm.mp3",
+      "duration": 305.127007,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "69-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1715pm.mp3",
+      "fullPath": "temp-set1/69-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1715pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "70-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1729pm.mp3",
+      "fullPath": "temp-set1/70-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1729pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "71-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1730pm.mp3",
+      "fullPath": "temp-set1/71-Beats___Lofi_Hip_Hop__BPM95_2025-04-25-1730pm.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "72-Beats___Lofi_Hip_Hop__BPM99_2025-04-25-1729pm.mp3",
+      "fullPath": "temp-set1/72-Beats___Lofi_Hip_Hop__BPM99_2025-04-25-1729pm.mp3",
+      "duration": 311.970998,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "73-Christmas___Beats__BPM110 (1)_2025-04-25-1311pm.mp3",
+      "fullPath": "temp-set1/73-Christmas___Beats__BPM110 (1)_2025-04-25-1311pm.mp3",
+      "duration": 307.712993,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "74-Christmas___Beats__BPM110 (1)_2025-04-25-1712pm.mp3",
+      "fullPath": "temp-set1/74-Christmas___Beats__BPM110 (1)_2025-04-25-1712pm.mp3",
+      "duration": 307.712993,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "75-Christmas___Beats__BPM110.mp3",
+      "fullPath": "temp-set1/75-Christmas___Beats__BPM110.mp3",
+      "duration": 307.712993,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "76-City_Pop___Acoustic__BPM115_2025-04-25-1654pm.mp3",
+      "fullPath": "temp-set1/76-City_Pop___Acoustic__BPM115_2025-04-25-1654pm.mp3",
+      "duration": 311.266009,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "77-City_Pop___Acoustic__BPM120_2025-04-25-1652pm.mp3",
+      "fullPath": "temp-set1/77-City_Pop___Acoustic__BPM120_2025-04-25-1652pm.mp3",
+      "duration": 305.048005,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "78-City_Pop___Beats__BPM90_2025-04-25-1705pm.mp3",
+      "fullPath": "temp-set1/78-City_Pop___Beats__BPM90_2025-04-25-1705pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "79-City_Pop___Funk__BPM93_2025-04-25-1648pm.mp3",
+      "fullPath": "temp-set1/79-City_Pop___Funk__BPM93_2025-04-25-1648pm.mp3",
+      "duration": 312.231995,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "80-City_Pop___Lofi_Hip_Hop__BPM90_2025-04-25-1718pm.mp3",
+      "fullPath": "temp-set1/80-City_Pop___Lofi_Hip_Hop__BPM90_2025-04-25-1718pm.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "81-City_Pop___Lofi_Hip_Hop__BPM90_2025-04-25-1724pm.mp3",
+      "fullPath": "temp-set1/81-City_Pop___Lofi_Hip_Hop__BPM90_2025-04-25-1724pm.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "82-City_Pop___Orchestra__BPM100_2025-04-25-1639pm.mp3",
+      "fullPath": "temp-set1/82-City_Pop___Orchestra__BPM100_2025-04-25-1639pm.mp3",
+      "duration": 308.34,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "83-City_Pop___Orchestra__BPM103_2025-04-25-1652pm.mp3",
+      "fullPath": "temp-set1/83-City_Pop___Orchestra__BPM103_2025-04-25-1652pm.mp3",
+      "duration": 307.660998,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "84-City_Pop___Orchestra__BPM103_2025-04-25-1659pm.mp3",
+      "fullPath": "temp-set1/84-City_Pop___Orchestra__BPM103_2025-04-25-1659pm.mp3",
+      "duration": 308.992993,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "85-City_Pop___Orchestra__BPM112_2025-04-25-1649pm.mp3",
+      "fullPath": "temp-set1/85-City_Pop___Orchestra__BPM112_2025-04-25-1649pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "86-City_Pop___Orchestra__BPM122_2025-04-25-1637pm.mp3",
+      "fullPath": "temp-set1/86-City_Pop___Orchestra__BPM122_2025-04-25-1637pm.mp3",
+      "duration": 308.418005,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "87-City_Pop___Orchestra__BPM90_2025-04-25-1642pm.mp3",
+      "fullPath": "temp-set1/87-City_Pop___Orchestra__BPM90_2025-04-25-1642pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "88-City_Pop___Orchestra__BPM90_2025-04-25-1651pm.mp3",
+      "fullPath": "temp-set1/88-City_Pop___Orchestra__BPM90_2025-04-25-1651pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "89-City_Pop___Orchestra__BPM90_2025-04-25-1658pm.mp3",
+      "fullPath": "temp-set1/89-City_Pop___Orchestra__BPM90_2025-04-25-1658pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "90-City_Pop___Orchestra__BPM90_2025-04-25-1700pm.mp3",
+      "fullPath": "temp-set1/90-City_Pop___Orchestra__BPM90_2025-04-25-1700pm.mp3",
+      "duration": 309.410998,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "91-City_Pop___Orchestra__BPM93_2025-04-25-1635pm.mp3",
+      "fullPath": "temp-set1/91-City_Pop___Orchestra__BPM93_2025-04-25-1635pm.mp3",
+      "duration": 310.116009,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "92-City_Pop___Orchestra__BPM93_2025-04-25-1648pm.mp3",
+      "fullPath": "temp-set1/92-City_Pop___Orchestra__BPM93_2025-04-25-1648pm.mp3",
+      "duration": 310.116009,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "93-City_Pop___Orchestra__BPM93_2025-04-25-1701pm.mp3",
+      "fullPath": "temp-set1/93-City_Pop___Orchestra__BPM93_2025-04-25-1701pm.mp3",
+      "duration": 310.116009,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "94-City_Pop___Orchestra__BPM93_2025-04-25-1702pm.mp3",
+      "fullPath": "temp-set1/94-City_Pop___Orchestra__BPM93_2025-04-25-1702pm.mp3",
+      "duration": 308.758005,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "95-City_Pop___R_B__BPM100_2025-04-25-1631pm.mp3",
+      "fullPath": "temp-set1/95-City_Pop___R_B__BPM100_2025-04-25-1631pm.mp3",
+      "duration": 310.481995,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "96-City_Pop___Reggae__BPM100_2025-04-25-1640pm.mp3",
+      "fullPath": "temp-set1/96-City_Pop___Reggae__BPM100_2025-04-25-1640pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "97-City_Pop___Reggae__BPM100_2025-04-25-1642pm.mp3",
+      "fullPath": "temp-set1/97-City_Pop___Reggae__BPM100_2025-04-25-1642pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "98-City_Pop___Reggae__BPM100_2025-04-25-1707pm.mp3",
+      "fullPath": "temp-set1/98-City_Pop___Reggae__BPM100_2025-04-25-1707pm.mp3",
+      "duration": 308.967007,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "99-City_Pop___Reggae__BPM103_2025-04-25-1636pm.mp3",
+      "fullPath": "temp-set1/99-City_Pop___Reggae__BPM103_2025-04-25-1636pm.mp3",
+      "duration": 308.992993,
+      "formattedDuration": "5:09"
+    }
+  ],
+  "totalDuration": 96834.22234100006,
+  "formattedTotalDuration": "1613:54",
+  "numberOfTracks": 325
+}

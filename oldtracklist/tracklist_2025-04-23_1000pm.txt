@@ -1,0 +1,22 @@
+音軌列表：
+
+00:00:00 mellow rain
+00:03:13 azure skyline
+00:06:24 mellow morning
+00:09:36 gentle dusk
+00:12:49 golden breeze
+00:16:01 cozy twilight
+00:21:11 electric tower
+00:24:19 bright window
+00:29:23 quiet dawn
+00:34:28 quiet morning
+00:37:35 tender twilight
+00:40:46 cozy moment
+00:45:51 warm night
+00:50:56 velvet breeze
+00:56:06 gentle moment
+01:01:12 peaceful dusk
+01:06:17 peaceful silence
+01:11:28 tender silence
+
+总时长: 01:16:33

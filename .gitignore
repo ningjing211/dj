@@ -1,0 +1,57 @@
+# 音频文件
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+
+# 系统文件
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 大型二进制文件
+*.zip
+*.rar
+*.7z
+
+# 临时文件
+*.tmp
+*.temp
+temp/
+tmp/
+
+# IDE 和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 其他
+*.log
+.env
+
+# 忽略生成的组目录
+*_Group/
+
+# 忽略音樂文件
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+
+# 忽略系統文件
+.DS_Store
+.env
+node_modules/
+
+# 忽略生成的文件
+*.log 

@@ -1,0 +1,34 @@
+音軌列表：
+
+00:00:00 cozy petals
+00:03:29 soft morning
+00:08:37 pearl moment
+00:12:07 fuzzy record
+00:17:19 blissful twilight
+00:22:06 mellow rain
+00:27:10 creamy garden
+00:30:15 quiet breeze
+00:35:20 sharp book
+00:40:27 crystal window
+00:45:35 joyful sunday
+00:48:50 gentle breeze
+00:52:03 crisp dew
+00:57:10 soulful river
+01:02:20 ivory camera
+01:05:30 ruby cabin
+01:10:45 passionate shore
+01:15:52 vibrant city
+01:21:06 silver street
+01:26:18 soft twilight
+01:31:28 neon lights
+01:36:34 crimson blanket
+01:41:46 azure night
+01:46:50 quiet rain
+01:50:02 peaceful chair
+01:55:09 lilac forest
+02:00:14 cool bridge
+02:05:21 mellow moment
+02:10:31 tender scarf
+02:15:40 mellow twilight
+
+总时长: 02:20:52

@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 mellow morning
+00:05:08 joyful cabin
+00:10:20 peaceful twilight
+00:15:25 soft rain
+00:20:29 azure lights
+00:25:38 quiet moment
+00:28:51 coral dawn
+00:34:02 lonesome afternoon
+00:39:17 crystal window
+00:44:30 gentle breeze
+00:49:40 bittersweet gallery
+00:54:53 mellow moment
+00:58:05 coral frost
+01:03:10 mellow breeze
+01:08:20 quiet morning
+
+总时长: 01:13:32

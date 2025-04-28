@@ -1,0 +1,98 @@
+{
+  "scanTime": "2025-04-25T11:11:58.258Z",
+  "tracks": [
+    {
+      "filename": "track0.mp3",
+      "fullPath": "temp_mix/track0.mp3",
+      "duration": 308.182993,
+      "formattedDuration": "5:08"
+    },
+    {
+      "filename": "track1.mp3",
+      "fullPath": "temp_mix/track1.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "track10.mp3",
+      "fullPath": "temp_mix/track10.mp3",
+      "duration": 312.076009,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "track11.mp3",
+      "fullPath": "temp_mix/track11.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "track12.mp3",
+      "fullPath": "temp_mix/track12.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "track13.mp3",
+      "fullPath": "temp_mix/track13.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "track14.mp3",
+      "fullPath": "temp_mix/track14.mp3",
+      "duration": 311.500998,
+      "formattedDuration": "5:12"
+    },
+    {
+      "filename": "track2.mp3",
+      "fullPath": "temp_mix/track2.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "track3.mp3",
+      "fullPath": "temp_mix/track3.mp3",
+      "duration": 304.760998,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "track4.mp3",
+      "fullPath": "temp_mix/track4.mp3",
+      "duration": 308.758005,
+      "formattedDuration": "5:09"
+    },
+    {
+      "filename": "track5.mp3",
+      "fullPath": "temp_mix/track5.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "track6.mp3",
+      "fullPath": "temp_mix/track6.mp3",
+      "duration": 310.742993,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "track7.mp3",
+      "fullPath": "temp_mix/track7.mp3",
+      "duration": 314.582993,
+      "formattedDuration": "5:15"
+    },
+    {
+      "filename": "track8.mp3",
+      "fullPath": "temp_mix/track8.mp3",
+      "duration": 313.617007,
+      "formattedDuration": "5:14"
+    },
+    {
+      "filename": "track9.mp3",
+      "fullPath": "temp_mix/track9.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    }
+  ],
+  "totalDuration": 4411.900999,
+  "formattedTotalDuration": "73:32",
+  "numberOfTracks": 15
+}

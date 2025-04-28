@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 soft twilight
+00:05:08 silver book
+00:10:20 quiet breeze
+00:15:25 peaceful morning
+00:20:29 azure lights
+00:25:38 mellow moment
+00:28:51 creamy gallery
+00:34:02 hazy sunday
+00:39:17 neon street
+00:44:30 gentle rain
+00:49:40 nostalgic scarf
+00:54:53 soft moment
+00:58:05 balmy crystal
+01:03:10 mellow breeze
+01:08:20 quiet morning
+
+总时长: 01:13:32

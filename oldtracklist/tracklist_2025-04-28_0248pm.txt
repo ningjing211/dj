@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 quiet twilight
+00:05:08 blissful crystal
+00:10:20 mellow moment
+00:15:25 peaceful morning
+00:20:29 neon lights
+00:25:38 gentle rain
+00:28:51 balmy path
+00:34:02 dreamy terrace
+00:39:17 silver night
+00:44:30 soft breeze
+00:49:40 ruby canal
+00:54:53 gentle breeze
+00:58:05 nostalgic night
+01:03:10 quiet moment
+01:08:20 gentle twilight
+
+总时长: 01:13:32

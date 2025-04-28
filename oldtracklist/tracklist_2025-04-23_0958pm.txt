@@ -1,0 +1,22 @@
+音軌列表：
+
+00:00:00 gentle breeze
+00:03:13 neon night
+00:06:24 peaceful rain
+00:09:36 soft twilight
+00:12:49 balmy tide
+00:16:01 quiet moment
+00:21:11 silver city
+00:24:19 vibrant street
+00:29:23 mellow morning
+00:34:28 soft morning
+00:37:35 peaceful breeze
+00:40:46 quiet twilight
+00:45:51 zen moment
+00:50:56 silky snow
+00:56:06 soft rain
+01:01:12 mellow moment
+01:06:17 peaceful whisper
+01:11:28 cloud silence
+
+总时长: 01:16:33

@@ -1,0 +1,17 @@
+${kaomoji-start} ${title} ${kaomoji-end}
+
+°ஂ
+${description}
+જ ⁀➴
+
+Tracklist:
+${tracklist}
+
+Stream the blend : ${emojiForCreater} / @fivonLipa   ৎ୭
+
+𖠋 Artwork | Created by fivon.
+
+🎧 Touch play, sip away, and let the beats carry you to a comfy day.
+⸝⸝⸝ᵒ̴̶̷̥ / @fivonLipa  ৎ୭
+
+${All Tags}

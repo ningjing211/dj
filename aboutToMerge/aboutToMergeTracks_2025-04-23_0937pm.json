@@ -1,0 +1,116 @@
+{
+  "scanTime": "2025-04-23T13:37:32.715Z",
+  "tracks": [
+    {
+      "filename": "1-Afrobeats___Lofi_Hip_Hop__BPM90.mp3",
+      "fullPath": "original-tracks/1-Afrobeats___Lofi_Hip_Hop__BPM90.mp3",
+      "duration": 192.715011,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "Afrobeats___City_Pop__BPM90.mp3",
+      "fullPath": "original-tracks/Afrobeats___City_Pop__BPM90.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "Afrobeats___Lofi_Hip_Hop__BPM85.mp3",
+      "fullPath": "original-tracks/Afrobeats___Lofi_Hip_Hop__BPM85.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "Afrobeats___Lofi_Hip_Hop__BPM95.mp3",
+      "fullPath": "original-tracks/Afrobeats___Lofi_Hip_Hop__BPM95.mp3",
+      "duration": 193.263991,
+      "formattedDuration": "3:13"
+    },
+    {
+      "filename": "Afrobeats___Tropical_House__BPM95.mp3",
+      "fullPath": "original-tracks/Afrobeats___Tropical_House__BPM95.mp3",
+      "duration": 192.061995,
+      "formattedDuration": "3:12"
+    },
+    {
+      "filename": "City_Pop___Lofi_Hip_Hop__BPM90.mp3",
+      "fullPath": "original-tracks/City_Pop___Lofi_Hip_Hop__BPM90.mp3",
+      "duration": 310.038005,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "City_Pop___Tropical_House__BPM97.mp3",
+      "fullPath": "original-tracks/City_Pop___Tropical_House__BPM97.mp3",
+      "duration": 188.118005,
+      "formattedDuration": "3:08"
+    },
+    {
+      "filename": "Country___City_Pop__BPM95.mp3",
+      "fullPath": "original-tracks/Country___City_Pop__BPM95.mp3",
+      "duration": 303.455011,
+      "formattedDuration": "5:03"
+    },
+    {
+      "filename": "Country___Lofi_Hip_Hop__BPM85.mp3",
+      "fullPath": "original-tracks/Country___Lofi_Hip_Hop__BPM85.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "Country___Lofi_Hip_Hop__BPM98.mp3",
+      "fullPath": "original-tracks/Country___Lofi_Hip_Hop__BPM98.mp3",
+      "duration": 187.7,
+      "formattedDuration": "3:08"
+    },
+    {
+      "filename": "Lofi_Hip_Hop___City_Pop__BPM90.mp3",
+      "fullPath": "original-tracks/Lofi_Hip_Hop___City_Pop__BPM90.mp3",
+      "duration": 191.017007,
+      "formattedDuration": "3:11"
+    },
+    {
+      "filename": "Lofi_Hip_Hop___Electronica__BPM95.mp3",
+      "fullPath": "original-tracks/Lofi_Hip_Hop___Electronica__BPM95.mp3",
+      "duration": 304.839002,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "Lofi_Hip_Hop___R_B__BPM95.mp3",
+      "fullPath": "original-tracks/Lofi_Hip_Hop___R_B__BPM95.mp3",
+      "duration": 304.420998,
+      "formattedDuration": "5:04"
+    },
+    {
+      "filename": "R_B___Electronica__BPM90.mp3",
+      "fullPath": "original-tracks/R_B___Electronica__BPM90.mp3",
+      "duration": 310.456009,
+      "formattedDuration": "5:10"
+    },
+    {
+      "filename": "Reggae___Lofi_Hip_Hop__BPM75.mp3",
+      "fullPath": "original-tracks/Reggae___Lofi_Hip_Hop__BPM75.mp3",
+      "duration": 305.78,
+      "formattedDuration": "5:06"
+    },
+    {
+      "filename": "Reggae___Lofi_Hip_Hop__BPM85.mp3",
+      "fullPath": "original-tracks/Reggae___Lofi_Hip_Hop__BPM85.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    },
+    {
+      "filename": "z1.mp3",
+      "fullPath": "original-tracks/z1.mp3",
+      "duration": 311.37,
+      "formattedDuration": "5:11"
+    },
+    {
+      "filename": "z2.mp3",
+      "fullPath": "original-tracks/z2.mp3",
+      "duration": 305.021995,
+      "formattedDuration": "5:05"
+    }
+  ],
+  "totalDuration": 4593.380021,
+  "formattedTotalDuration": "76:33",
+  "numberOfTracks": 18
+}

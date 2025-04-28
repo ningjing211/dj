@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 gentle morning
+00:05:08 ruby corner
+00:10:20 soft breeze
+00:15:25 peaceful moment
+00:20:29 vibrant window
+00:25:38 quiet rain
+00:28:51 intimate street
+00:34:02 lavender cottage
+00:39:17 neon lights
+00:44:30 mellow twilight
+00:49:40 silver cabin
+00:54:53 soft twilight
+00:58:05 muted crystal
+01:03:10 mellow morning
+01:08:20 peaceful rain
+
+总时长: 01:13:32

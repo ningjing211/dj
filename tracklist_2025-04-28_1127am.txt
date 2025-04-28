@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 gentle rain
+00:05:08 warm garden
+00:10:20 peaceful twilight
+00:15:25 mellow moment
+00:20:29 neon city
+00:25:38 soft breeze
+00:28:51 bronze lamp
+00:34:02 cool piano
+00:39:17 crystal night
+00:44:30 quiet morning
+00:49:40 indigo journal
+00:54:53 mellow morning
+00:58:05 golden sunset
+01:03:10 peaceful breeze
+01:08:20 quiet rain
+
+总时长: 01:13:32

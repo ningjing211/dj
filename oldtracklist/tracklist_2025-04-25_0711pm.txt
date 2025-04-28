@@ -1,0 +1,19 @@
+音軌列表：
+
+00:00:00 hazy camera
+00:05:08 silver chair
+00:10:20 violet mirror
+00:15:32 mellow letter
+00:18:44 serene rain
+00:23:50 cool shore
+00:29:00 fragrant night
+00:34:12 aqua snow
+00:39:16 crimson alley
+00:44:21 creamy moment
+00:49:30 gentle twilight
+00:52:43 pensive book
+00:57:54 vibrant midnight
+01:03:08 soft sunday
+01:08:22 solemn lamp
+
+总时长: 01:13:32

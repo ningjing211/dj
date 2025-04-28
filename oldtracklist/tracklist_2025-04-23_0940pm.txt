@@ -1,0 +1,22 @@
+音軌列表：
+
+00:00:00 1-Afrobeats -  Lofi Hip Hop -
+00:03:13 Afrobeats -  City Pop -
+00:06:24 Afrobeats -  Lofi Hip Hop -
+00:09:36 Afrobeats -  Lofi Hip Hop -
+00:12:49 Afrobeats -  Tropical House -
+00:16:01 City Pop -  Lofi Hip Hop -
+00:21:11 City Pop -  Tropical House -
+00:24:19 Country -  City Pop -
+00:29:23 Country -  Lofi Hip Hop -
+00:34:28 Country -  Lofi Hip Hop -
+00:37:35 Lofi Hip Hop -  City Pop -
+00:40:46 Lofi Hip Hop -  Electronica -
+00:45:51 Lofi Hip Hop -  R B -
+00:50:56 R B -  Electronica -
+00:56:06 Reggae -  Lofi Hip Hop -
+01:01:12 Reggae -  Lofi Hip Hop -
+01:06:17 z1
+01:11:28 z2
+
+总时长: 01:16:33
