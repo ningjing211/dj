@@ -4,6 +4,7 @@
 *.m4a
 *.aac
 *.flac
+*.ogg
 
 # 系统文件
 .DS_Store
@@ -37,9 +38,6 @@ tmp/
 # 其他
 *.log
 .env
-
-# 忽略生成的组目录
-*_Group/
 
 # 忽略音樂文件
 *.mp3
