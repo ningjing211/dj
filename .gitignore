@@ -1,55 +1,32 @@
-# 音频文件
-*.mp3
-*.wav
-*.m4a
-*.aac
-*.flac
-*.ogg
-
-# 系统文件
-.DS_Store
-.Spotlight-V100
-.Trashes
-._*
-
-# Node.js
+# Node
 node_modules/
 npm-debug.log
 yarn-debug.log
 yarn-error.log
 
-# 大型二进制文件
-*.zip
-*.rar
-*.7z
-
-# 临时文件
-*.tmp
-*.temp
-temp/
-tmp/
-
-# IDE 和编辑器文件
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# 其他
-*.log
-.env
+# OS
+.DS_Store
+Thumbs.db
 
-# 忽略音樂文件
+# 音頻文件
 *.mp3
 *.wav
 *.m4a
-*.flac
 *.ogg
+*.flac
 
-# 忽略系統文件
-.DS_Store
-.env
-node_modules/
+# 臨時目錄
+temp*/
+temp-*/
 
-# 忽略生成的文件
+# 大型數據目錄
+music-310-04-25-2025/
+
+# 其他
 *.log 

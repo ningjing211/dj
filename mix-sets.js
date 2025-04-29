@@ -25,12 +25,13 @@ function generateTaiwanTimestamp() {
     const day = String(twTime.getUTCDate()).padStart(2, '0');
     const hours = twTime.getUTCHours();
     const minutes = String(twTime.getUTCMinutes()).padStart(2, '0');
+    const seconds = String(twTime.getUTCSeconds()).padStart(2, '0');
     
     // 確定AM/PM
     const period = hours >= 12 ? 'pm' : 'am';
     const twelveHour = hours % 12 || 12;
     
-    return `${year}-${month}-${day}-${String(twelveHour).padStart(2, '0')}${minutes}${period}`;
+    return `${year}-${month}-${day}-${String(twelveHour).padStart(2, '0')}${minutes}${seconds}${period}`;
 }
 
 // 生成時間戳記檔名
