@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 soft garden
+03:00 golden garden
+06:00 golden breeze
+09:00 warm breeze
+12:00 tranquil twilight
+15:00 warm echo
+18:00 peaceful moment
+21:00 mellow cloud
+24:00 sweet melody
+27:00 sweet river
+30:00 golden dream
+33:00 peaceful sunset
+36:00 dreamy breeze
+39:00 tender path
+42:00 tranquil melody

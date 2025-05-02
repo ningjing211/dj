@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 serene cloud
+03:00 tender garden
+06:00 tender wave
+09:00 tranquil breeze
+12:00 peaceful breeze
+15:00 sweet cloud
+18:00 misty whisper
+21:00 silver twilight
+24:00 silver twilight
+27:00 dreamy echo
+30:00 gentle garden
+33:00 peaceful cloud
+36:00 amber moment
+39:00 golden breeze
+42:00 mellow melody

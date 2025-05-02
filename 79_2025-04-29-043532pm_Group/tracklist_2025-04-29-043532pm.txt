@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 azure cloud
+03:00 mellow whisper
+06:00 serene sunset
+09:00 misty wave
+12:00 tender echo
+15:00 sweet wave
+18:00 misty morning
+21:00 mellow echo
+24:00 dreamy moment
+27:00 peaceful river
+30:00 soft wave
+33:00 peaceful breeze
+36:00 soft river
+39:00 azure moment
+42:00 dreamy morning

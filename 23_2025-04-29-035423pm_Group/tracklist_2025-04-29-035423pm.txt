@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 tranquil river
+03:00 tender river
+06:00 misty moonlight
+09:00 azure cloud
+12:00 soft moment
+15:00 azure morning
+18:00 serene breeze
+21:00 golden melody
+24:00 gentle garden
+27:00 silver garden
+30:00 dreamy moment
+33:00 mellow whisper
+36:00 peaceful moment
+39:00 tender twilight
+42:00 azure sunset

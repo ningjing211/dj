@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 mellow whisper
+03:00 tender whisper
+06:00 silver breeze
+09:00 soft moonlight
+12:00 sweet garden
+15:00 silver echo
+18:00 azure twilight
+21:00 peaceful sunset
+24:00 soft garden
+27:00 misty cloud
+30:00 azure cloud
+33:00 warm wave
+36:00 amber whisper
+39:00 dreamy dream
+42:00 peaceful dream

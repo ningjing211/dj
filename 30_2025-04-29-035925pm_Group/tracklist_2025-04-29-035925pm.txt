@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 tender path
+03:00 serene morning
+06:00 amber path
+09:00 serene river
+12:00 golden cloud
+15:00 tranquil sunset
+18:00 peaceful sunset
+21:00 tender morning
+24:00 silver breeze
+27:00 silver twilight
+30:00 gentle path
+33:00 golden wave
+36:00 peaceful wave
+39:00 silver morning
+42:00 silver cloud

@@ -227,213 +227,6 @@ async function generateTrackList(files, outputDir, timestamp) {
     return tracklistFileName;
 }
 
-// 從emoji_group.txt讀取已使用的emoji記錄
-function readUsedEmojis() {
-    try {
-        const emojiGroupContent = fs.readFileSync('marketing_data/emoji_group.txt', 'utf8');
-        const lines = emojiGroupContent.split('\n');
-        // 檢查是否有used_emoji記錄行
-        const usedEmojiLine = lines.find(line => line.startsWith('used_emoji='));
-        if (usedEmojiLine) {
-            return JSON.parse(usedEmojiLine.replace('used_emoji=', ''));
-        }
-        return [];
-    } catch (error) {
-        console.error('讀取used_emoji記錄失敗:', error);
-        return [];
-    }
-}
-
-// 更新emoji_group.txt中的used_emoji記錄
-function updateUsedEmojis(usedEmojis) {
-    try {
-        const emojiGroupContent = fs.readFileSync('marketing_data/emoji_group.txt', 'utf8');
-        const lines = emojiGroupContent.split('\n');
-        const emojiLine = lines[0];
-        let newContent = emojiLine + '\n';
-        newContent += `used_emoji=${JSON.stringify(usedEmojis)}`;
-        fs.writeFileSync('marketing_data/emoji_group.txt', newContent, 'utf8');
-    } catch (error) {
-        console.error('更新used_emoji記錄失敗:', error);
-    }
-}
-
-// 從emoji_group.txt隨機選擇一個未使用的emoji
-function selectRandomEmoji() {
-    const emojiGroupContent = fs.readFileSync('marketing_data/emoji_group.txt', 'utf8');
-    const emojis = Array.from(emojiGroupContent.split('\n')[0]);
-    const usedEmojis = readUsedEmojis();
-    
-    // 過濾掉已使用的emoji
-    const availableEmojis = emojis.filter((_, index) => !usedEmojis.includes(index));
-    
-    if (availableEmojis.length === 0) {
-        console.warn('所有emoji都已使用，重置使用記錄');
-        updateUsedEmojis([]);
-        return selectRandomEmoji();
-    }
-    
-    const randomIndex = Math.floor(Math.random() * availableEmojis.length);
-    const selectedEmoji = availableEmojis[randomIndex];
-    const originalIndex = emojis.indexOf(selectedEmoji);
-    
-    // 更新使用記錄
-    usedEmojis.push(originalIndex);
-    updateUsedEmojis(usedEmojis);
-    
-    return selectedEmoji;
-}
-
-// 從kaomoji_group.txt讀取指定索引的kaomoji
-function getKaomojiByIndex(index) {
-    try {
-        const kaomojiContent = fs.readFileSync('marketing_data/kaomoji_group.txt', 'utf8');
-        const lines = kaomojiContent.split('\n');
-        const groupSize = 4; // 每組佔用4行（包括空行）
-        const startLine = (index - 1) * groupSize;
-        
-        // 確認這是正確的組
-        if (lines[startLine].trim() === String(index).padStart(2, '0')) {
-            // 提取 [] 中的內容
-            const startMatch = lines[startLine + 1].match(/\[(.*?)\]/);
-            const endMatch = lines[startLine + 2].match(/\[(.*?)\]/);
-            
-            if (startMatch && endMatch) {
-                return {
-                    start: startMatch[1],
-                    end: endMatch[1]
-                };
-            }
-        }
-        
-        // 如果沒找到對應的組，嘗試手動搜索
-        for (let i = 0; i < lines.length - 2; i++) {
-            if (lines[i].trim() === String(index).padStart(2, '0')) {
-                const startMatch = lines[i + 1].match(/\[(.*?)\]/);
-                const endMatch = lines[i + 2].match(/\[(.*?)\]/);
-                
-                if (startMatch && endMatch) {
-                    return {
-                        start: startMatch[1],
-                        end: endMatch[1]
-                    };
-                }
-            }
-        }
-        
-        console.error(`無法找到索引 ${index} 的 kaomoji`);
-        return { start: '', end: '' };
-    } catch (error) {
-        console.error('讀取 kaomoji 失敗:', error);
-        return { start: '', end: '' };
-    }
-}
-
-// 生成set_info.txt
-async function generateSetInfo(groupIndex, outputDir, timestamp) {
-    try {
-        // 讀取模板
-        const template = fs.readFileSync('marketing_data/description_template.txt', 'utf8');
-        
-        // 讀取titles
-        const titles = fs.readFileSync('marketing_data/titles_for_video_with_emoji.txt', 'utf8');
-        const titleLines = titles.split('\n').filter(line => line.trim());
-        // 移除標題中的序號部分
-        const selectedTitle = titleLines[groupIndex - 1]
-            .trim()
-            .replace(/^\d+\.\s+/, '');
-            
-        // 獲取對應的kaomoji
-        const kaomoji = getKaomojiByIndex(groupIndex);
-        
-        // 讀取description
-        const descriptions = fs.readFileSync('marketing_data/description_content_each_indivisual.txt', 'utf8');
-        const allLines = descriptions.split('\n');
-        
-        // 找到當前標題和下一個標題的位置
-        let startIndex = -1;
-        let endIndex = -1;
-        
-        // 找到當前標題的位置
-        for (let i = 0; i < allLines.length; i++) {
-            if (allLines[i].trim() === titleLines[groupIndex - 1].trim()) {
-                startIndex = i + 1;  // 從標題的下一行開始
-                break;
-            }
-        }
-        
-        // 找到下一個標題的位置
-        for (let i = startIndex; i < allLines.length; i++) {
-            if (i + 1 < titleLines.length && allLines[i].trim() === titleLines[groupIndex].trim()) {
-                endIndex = i - 1;  // 到下一個標題的前一行結束
-                break;
-            }
-        }
-        
-        // 如果找到了正確的範圍，提取描述內容
-        let selectedDescription = '';
-        if (startIndex !== -1 && endIndex !== -1) {
-            selectedDescription = allLines.slice(startIndex, endIndex + 1)
-                .map(line => line.trimEnd())  // 只清理行尾空白
-                .join('\n')
-                .replace(/\n{3,}/g, '\n\n');  // 將連續3個以上的換行替換為2個
-        } else {
-            console.error(`無法找到第 ${groupIndex} 組的描述內容範圍`);
-            selectedDescription = '描述內容提取錯誤';
-        }
-        
-        // 讀取tracklist
-        const tracklistPath = path.join(outputDir, `tracklist_${timestamp}.txt`);
-        const tracklist = fs.readFileSync(tracklistPath, 'utf8');
-        const tracklistContent = tracklist.split('\n').slice(2).join('\n').trim();
-        
-        // 讀取tags
-        const tagsPath = path.join(outputDir, `tagsForSet_${timestamp}.txt`);
-        const tagsContent = fs.readFileSync(tagsPath, 'utf8');
-        const specificTags = Array.from(new Set(
-            tagsContent.match(/#\w+/g) || []
-        ));
-        
-        const generalTagsContent = fs.readFileSync('general_tags.txt', 'utf8');
-        const generalTags = Array.from(new Set(
-            generalTagsContent.match(/#\w+/g) || []
-        ));
-        
-        // 合併並去重所有標籤，每5個標籤一組
-        const allTagsArray = Array.from(new Set([...specificTags, ...generalTags]));
-        const formattedTags = allTagsArray.reduce((acc, tag, index) => {
-            if (index > 0 && index % 5 === 0) {
-                return acc + '\n' + tag;
-            }
-            return acc + ' ' + tag;
-        }).trim();
-        
-        // 選擇emoji
-        const selectedEmoji = selectRandomEmoji();
-        
-        // 替換模板內容
-        let setInfo = template
-            .replace('${kaomoji-start}', kaomoji.start)
-            .replace('${kaomoji-end}', kaomoji.end)
-            .replace('${title}', selectedTitle)
-            .replace('${description}', selectedDescription)
-            .replace('${tracklist}', tracklistContent)
-            .replace('${emojiForCreater}', selectedEmoji)
-            .replace('${All Tags}', formattedTags);
-            
-        // 生成set_info文件
-        const setInfoFileName = `set_info_${String(groupIndex).padStart(2, '0')}_${timestamp}.txt`;
-        const setInfoPath = path.join(outputDir, setInfoFileName);
-        fs.writeFileSync(setInfoPath, setInfo, 'utf8');
-        
-        console.log(`已生成set_info文件: ${setInfoPath}`);
-        return setInfoFileName;
-    } catch (error) {
-        console.error('生成set_info文件時發生錯誤:', error);
-        return null;
-    }
-}
-
 // 處理單個組合
 async function processGroup(groupData, groupIndex) {
     const musicDir = 'music-310-04-25-2025';
@@ -449,10 +242,17 @@ async function processGroup(groupData, groupIndex) {
         fs.mkdirSync(tempDir);
     }
 
+    try {
     // 複製並重命名音樂文件
     groupData.files.forEach((file, index) => {
         const sourcePath = path.join(musicDir, file);
         const targetPath = path.join(tempDir, `${index.toString().padStart(2, '0')}-${file}`);
+            
+            // 檢查源文件是否存在
+            if (!fs.existsSync(sourcePath)) {
+                throw new Error(`找不到音樂文件: ${file}`);
+            }
+            
         fs.copyFileSync(sourcePath, targetPath);
     });
 
@@ -465,22 +265,18 @@ async function processGroup(groupData, groupIndex) {
     
     // 生成播放列表
     await generateTrackList(groupData.files, outputDir, timestamp);
-    
-    // 生成set_info文件
-    await generateSetInfo(groupIndex + 1, outputDir, timestamp);
 
     // 使用 sox 合併音樂文件
     const outputMp3Path = path.join(outputDir, mp3FileName);
     const soxCommand = `sox ${path.join(tempDir, '*.mp3')} "${outputMp3Path}"`;
     
-    try {
         execSync(soxCommand);
         console.log(`音樂文件已合併: ${outputMp3Path}`);
         
-        // 生成 JSON 信息文件，包含文件編號
+        // 生成 JSON 信息文件
         const jsonContent = {
             timestamp: timestamp,
-            numbers: groupData.numbers,  // 添加編號數組
+            numbers: groupData.numbers,
             trackMapping: groupData.files.map((file, index) => ({
                 number: groupData.numbers[index],
                 file: file
@@ -494,11 +290,17 @@ async function processGroup(groupData, groupIndex) {
             JSON.stringify(jsonContent, null, 2)
         );
         
-        // 清理臨時目錄
-        fs.rmSync(tempDir, { recursive: true, force: true });
-        
     } catch (error) {
-        console.error('處理音樂文件時出錯：', error);
+        console.error(`處理第 ${groupIndex + 1} 組時發生錯誤：`, error.message);
+        // 清理臨時文件和目錄
+        if (fs.existsSync(outputDir)) {
+            fs.rmSync(outputDir, { recursive: true, force: true });
+        }
+    } finally {
+        // 清理臨時目錄
+        if (fs.existsSync(tempDir)) {
+        fs.rmSync(tempDir, { recursive: true, force: true });
+        }
     }
 }
 
@@ -508,17 +310,22 @@ async function main() {
     
     // 讀取組合數據
     const sets = readDrawResult();
-    if (!sets || sets.length < 2) {
-        console.error('無法讀取足夠的組合數據');
+    if (!sets || sets.length === 0) {
+        console.error('無法讀取組合數據');
         return;
     }
 
-    // 處理前兩組
-    for (let i = 0; i < 2; i++) {
+    console.log(`找到 ${sets.length} 組組合`);
+    console.log('從第 8 組開始處理...');
+
+    // 從第8組開始處理所有組合
+    for (let i = 7; i < sets.length; i++) {  // 因為索引從0開始，所以第8組是索引7
+        console.log(`\n處理第 ${i + 1}/${sets.length} 組`);
         await processGroup(sets[i], i);
     }
 
     console.log('\n所有組合處理完成！');
+    console.log('請執行 generate-set-info.js 來生成所有組合的 set_info 文件');
 }
 
 // 執行主程序

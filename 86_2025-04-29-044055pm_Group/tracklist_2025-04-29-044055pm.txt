@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 serene river
+03:00 tender river
+06:00 golden whisper
+09:00 golden twilight
+12:00 warm echo
+15:00 amber moonlight
+18:00 soft twilight
+21:00 serene morning
+24:00 soft whisper
+27:00 amber breeze
+30:00 soft breeze
+33:00 tranquil wave
+36:00 amber whisper
+39:00 gentle moment
+42:00 gentle wave

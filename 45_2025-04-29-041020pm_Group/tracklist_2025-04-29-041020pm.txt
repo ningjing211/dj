@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 warm breeze
+03:00 sweet whisper
+06:00 misty echo
+09:00 serene moonlight
+12:00 gentle echo
+15:00 serene twilight
+18:00 tranquil moonlight
+21:00 silver echo
+24:00 misty path
+27:00 golden path
+30:00 mellow dream
+33:00 golden dream
+36:00 serene morning
+39:00 tender path
+42:00 tender twilight

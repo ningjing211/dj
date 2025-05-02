@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 sweet moonlight
+03:00 mellow melody
+06:00 dreamy sunset
+09:00 golden whisper
+12:00 tranquil whisper
+15:00 peaceful whisper
+18:00 tender twilight
+21:00 amber cloud
+24:00 amber sunset
+27:00 azure wave
+30:00 dreamy garden
+33:00 mellow moment
+36:00 dreamy moonlight
+39:00 azure garden
+42:00 mellow sunset

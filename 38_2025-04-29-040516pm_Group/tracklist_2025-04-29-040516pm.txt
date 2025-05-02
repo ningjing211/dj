@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 azure cloud
+03:00 mellow melody
+06:00 tranquil river
+09:00 peaceful moonlight
+12:00 mellow garden
+15:00 misty moment
+18:00 silver garden
+21:00 golden whisper
+24:00 tender cloud
+27:00 tranquil garden
+30:00 gentle morning
+33:00 azure cloud
+36:00 misty moment
+39:00 warm echo
+42:00 tranquil moonlight

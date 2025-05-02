@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 peaceful whisper
+03:00 gentle twilight
+06:00 dreamy cloud
+09:00 dreamy moonlight
+12:00 sweet breeze
+15:00 mellow dream
+18:00 serene dream
+21:00 peaceful echo
+24:00 tranquil cloud
+27:00 tender melody
+30:00 misty breeze
+33:00 tranquil moonlight
+36:00 serene melody
+39:00 tranquil path
+42:00 tranquil wave

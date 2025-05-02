@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-04-29-040516pm",
+  "numbers": [
+    38,
+    203,
+    243,
+    237,
+    43,
+    228,
+    12,
+    158,
+    114,
+    57,
+    105,
+    64,
+    282,
+    14,
+    217
+  ],
+  "trackMapping": [
+    {
+      "number": 38,
+      "file": "Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-29-1235pm.mp3"
+    },
+    {
+      "number": 203,
+      "file": "R_B___Afrobeats__BPM115.mp3"
+    },
+    {
+      "number": 243,
+      "file": "Reggae__BPM75_2025-04-29-1218pm.mp3"
+    },
+    {
+      "number": 237,
+      "file": "R_B___World__BPM110_2025-04-29-1131am.mp3"
+    },
+    {
+      "number": 43,
+      "file": "Beats__BPM80_2025-04-29-1221pm.mp3"
+    },
+    {
+      "number": 228,
+      "file": "R_B___Reggae__BPM85_2025-04-29-1101am.mp3"
+    },
+    {
+      "number": 12,
+      "file": "Acoustic___Orchestra__BPM90_2025-04-29-1200pm.mp3"
+    },
+    {
+      "number": 158,
+      "file": "Lofi_Hip_Hop___Beats__BPM88_2025-04-29-1226pm.mp3"
+    },
+    {
+      "number": 114,
+      "file": "Country___Lofi_Hip_Hop__BPM98_2025-04-29-1231pm.mp3"
+    },
+    {
+      "number": 57,
+      "file": "Beats___Lofi_Hip_Hop__BPM99_2025-04-29-1240pm.mp3"
+    },
+    {
+      "number": 105,
+      "file": "City_Pop___Reggae__BPM97_2025-04-29-1154am.mp3"
+    },
+    {
+      "number": 64,
+      "file": "City_Pop___Acoustic__BPM120_2025-04-29-1202pm.mp3"
+    },
+    {
+      "number": 282,
+      "file": "World___Lofi_Hip_Hop__BPM95_2025-04-29-1057am.mp3"
+    },
+    {
+      "number": 14,
+      "file": "Acoustic___Reggae__BPM95_2025-04-29-1201pm.mp3"
+    },
+    {
+      "number": 217,
+      "file": "R_B___Lofi_Hip_Hop__BPM85_2025-04-29-1128am.mp3"
+    }
+  ],
+  "files": [
+    "Afrobeats___Lofi_Hip_Hop__BPM95_2025-04-29-1235pm.mp3",
+    "R_B___Afrobeats__BPM115.mp3",
+    "Reggae__BPM75_2025-04-29-1218pm.mp3",
+    "R_B___World__BPM110_2025-04-29-1131am.mp3",
+    "Beats__BPM80_2025-04-29-1221pm.mp3",
+    "R_B___Reggae__BPM85_2025-04-29-1101am.mp3",
+    "Acoustic___Orchestra__BPM90_2025-04-29-1200pm.mp3",
+    "Lofi_Hip_Hop___Beats__BPM88_2025-04-29-1226pm.mp3",
+    "Country___Lofi_Hip_Hop__BPM98_2025-04-29-1231pm.mp3",
+    "Beats___Lofi_Hip_Hop__BPM99_2025-04-29-1240pm.mp3",
+    "City_Pop___Reggae__BPM97_2025-04-29-1154am.mp3",
+    "City_Pop___Acoustic__BPM120_2025-04-29-1202pm.mp3",
+    "World___Lofi_Hip_Hop__BPM95_2025-04-29-1057am.mp3",
+    "Acoustic___Reggae__BPM95_2025-04-29-1201pm.mp3",
+    "R_B___Lofi_Hip_Hop__BPM85_2025-04-29-1128am.mp3"
+  ],
+  "outputFile": "full_set_2025-04-29-040516pm.mp3"
+}

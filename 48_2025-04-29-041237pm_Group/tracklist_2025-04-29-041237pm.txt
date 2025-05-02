@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 silver garden
+03:00 amber twilight
+06:00 soft sunset
+09:00 tranquil echo
+12:00 gentle melody
+15:00 mellow dream
+18:00 golden cloud
+21:00 misty cloud
+24:00 peaceful moment
+27:00 soft whisper
+30:00 golden breeze
+33:00 warm moonlight
+36:00 soft melody
+39:00 silver wave
+42:00 tender path

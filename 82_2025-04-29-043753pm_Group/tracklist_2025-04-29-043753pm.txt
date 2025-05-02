@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 dreamy sunset
+03:00 gentle moment
+06:00 golden sunset
+09:00 amber wave
+12:00 warm river
+15:00 soft dream
+18:00 dreamy wave
+21:00 sweet whisper
+24:00 dreamy cloud
+27:00 azure cloud
+30:00 tranquil sunset
+33:00 tranquil wave
+36:00 sweet melody
+39:00 azure moment
+42:00 tranquil melody

@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 serene wave
+03:00 peaceful garden
+06:00 misty wave
+09:00 peaceful morning
+12:00 warm whisper
+15:00 misty twilight
+18:00 gentle river
+21:00 tranquil river
+24:00 soft path
+27:00 sweet echo
+30:00 serene sunset
+33:00 tranquil whisper
+36:00 soft whisper
+39:00 tranquil river
+42:00 tender moonlight

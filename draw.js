@@ -19,7 +19,7 @@ function generateSets() {
     const usedSets = new Set(); // 用於檢查組合是否重複
     
     while (sets.length < 100) {
-        const newSet = generateRandomSet(0, 309, 15);
+        const newSet = generateRandomSet(0, 309, 15);  // 修改為0-309，對應310首歌
         const setString = newSet.join(',');
         
         // 檢查這個組合是否已經存在

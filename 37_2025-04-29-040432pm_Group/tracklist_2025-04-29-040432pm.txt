@@ -1,0 +1,17 @@
+音軌列表：
+
+00:00 misty morning
+03:00 serene breeze
+06:00 misty path
+09:00 tranquil moment
+12:00 sweet echo
+15:00 serene twilight
+18:00 warm breeze
+21:00 tender morning
+24:00 silver dream
+27:00 azure sunset
+30:00 serene melody
+33:00 mellow twilight
+36:00 gentle wave
+39:00 azure sunset
+42:00 tranquil wave
