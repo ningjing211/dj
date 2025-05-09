@@ -44,39 +44,6 @@ function saveProcessingRecord(audioFile, imageFile, outputFile, startTime, endTi
     fs.writeFileSync(logFile, JSON.stringify(history, null, 2));
 }
 
-// 生成高清 JPG 備份的函數
-async function createHighQualityJPGBackup(dirPath) {
-    const files = fs.readdirSync(dirPath);
-    const pngFile = files.find(file => file.endsWith('.png'));
-
-    if (!pngFile) {
-        console.log(`在目錄 ${dirPath} 中未找到 PNG 文件`);
-        return;
-    }
-
-    const imagePath = path.join(dirPath, pngFile);
-    const outputPath = path.join(dirPath, `${path.basename(pngFile, '.png')}-high-quality.jpg`);
-
-    console.log(`\n開始生成高清 JPG 備份: ${outputPath}`);
-    
-    const ffmpegCommand = `ffmpeg -i ${escapePath(imagePath)} \
--q:v 1 \
-${escapePath(outputPath)}`;
-
-    return new Promise((resolve, reject) => {
-        exec(ffmpegCommand, (error, stdout, stderr) => {
-            if (error) {
-                console.error(`生成 JPG 備份時出錯: ${error}`);
-                console.error('FFmpeg錯誤輸出:', stderr);
-                reject(error);
-                return;
-            }
-            console.log(`高清 JPG 備份生成完成: ${outputPath}`);
-            resolve();
-        });
-    });
-}
-
 // 處理單個目錄的函數
 async function processDirectory(dirPath) {
     const files = fs.readdirSync(dirPath);
@@ -88,12 +55,15 @@ async function processDirectory(dirPath) {
         return;
     }
 
-    // 先生成高清 JPG 備份
-    await createHighQualityJPGBackup(dirPath);
-
     const audioPath = path.join(dirPath, mp3File);
     const imagePath = path.join(dirPath, pngFile);
     const outputPath = path.join(dirPath, `${path.basename(mp3File, '.mp3')}.mov`);
+
+    // 檢查輸出文件是否已存在
+    if (fs.existsSync(outputPath)) {
+        console.log(`輸出文件已存在，跳過: ${outputPath}`);
+        return;
+    }
 
     // 記錄開始時間
     const startTime = new Date();
@@ -141,28 +111,35 @@ ${escapePath(outputPath)}`;
                 formatDuration(processingTime)
             );
             
-            resolve(endTime); // 返回結束時間，用於下一個目錄的開始時間
+            resolve(endTime);
         });
     });
 }
 
+// 獲取所有需要處理的資料夾
+const getGroupFolders = () => {
+    const folders = fs.readdirSync('.')
+        .filter(item => {
+            const match = item.match(/^(\d{2,3})_\d{4}-\d{2}-\d{2}-\d{6}pm_Group$/);
+            if (!match) return false;
+            const num = parseInt(match[1]);
+            return num >= 41 && num <= 100;
+        })
+        .sort((a, b) => {
+            const numA = parseInt(a.match(/^(\d{2,3})/)[1]);
+            const numB = parseInt(b.match(/^(\d{2,3})/)[1]);
+            return numA - numB;
+        });
+    return folders;
+};
+
 // 主函數
 async function main() {
-    const baseDir = process.argv[2] || 'sets-product-example';
-    
-    if (!fs.existsSync(baseDir)) {
-        console.error(`目錄 ${baseDir} 不存在！`);
-        process.exit(1);
-    }
-
-    const subDirs = fs.readdirSync(baseDir)
-        .filter(item => fs.statSync(path.join(baseDir, item)).isDirectory())
-        .map(item => path.join(baseDir, item));
-
-    console.log(`找到 ${subDirs.length} 個子目錄需要處理`);
+    const groupFolders = getGroupFolders();
+    console.log(`找到 ${groupFolders.length} 個資料夾需要處理`);
 
     let lastEndTime = null;
-    for (const dir of subDirs) {
+    for (const dir of groupFolders) {
         try {
             if (lastEndTime) {
                 console.log(`\n等待上一個處理完成...`);
