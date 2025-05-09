@@ -21,6 +21,21 @@ Thumbs.db
 *.ogg
 *.flac
 
+# 影片文件
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.3gp
+*.mpeg
+*.mpg
+*.mts
+*.m2ts
+
 # 臨時目錄
 temp*/
 temp-*/
@@ -28,5 +43,22 @@ temp-*/
 # 大型數據目錄
 music-310-04-25-2025/
 imagesByOrder
+
+# 圖片檔案
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.ico
+*.svg
+
+# 圖片資料夾
+images/
+imagesByOrder/
+*_Group/
+
 # 其他
 *.log 
